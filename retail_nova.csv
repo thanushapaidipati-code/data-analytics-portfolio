@@ -1,0 +1,601 @@
+Order_ID,Customer_ID,City,Channel,Product_Category,Quantity,Unit_Price,Discount,Order_Date,Delivery_Date,Payment_Mode,Return_Flag,Sales_Rep_ID,Warehouse,Notes
+ORD1000,CUS_202,Hyderabad,Wholesale,Grocery,4.0,943.69,0.05,2023-08-27,2023-04-18,Credit Card,No,SR16,W2,
+ORD1001,CUS_535,Hyderabad,Retail,Sports,18.0,995.16,0.09,2023-07-24,2023-08-21,UPI,Y,SR30,W2,check address
+ORD1002,CUS_960,Bengaluru,Retail,Electronics,2.0,373.26,0.09,2023-02-17,2023-02-12,Credit Card,N,SR4,W2,urgent
+ORD1003,CUS_370,Pune,Online,Electronics,17.0,1894.11,0.01,2023-09-02,2023-07-10,Net Banking,N,SR16,W1,urgent
+ORD1004,CUS_206,Mumbai,Retail,Clothing,13.0,1707.45,0.19,2023-11-16,2024-01-07,UPI,N,SR31,W1,
+ORD1005,CUS_171,Mumbai,Retail,Sports,4.0,1354.59,0.1,2023-11-13,2023-05-20,Net Banking,No,SR25,W1,
+ORD1006,CUS_800,Hyderabad,Wholesale,Furniture,11.0,951.48,0.21,2023-10-22,2023-04-14,Credit Card,Y,SR12,W3,
+ORD1007,CUS_120,Bengaluru,Retail,Grocery,7.0,852.94,0.21,2023-05-08,2023-06-21,UPI,N,SR26,W1,
+ORD1008,CUS_714,Chennai,Online,Furniture,12.0,1319.4,0.05,2023-12-10,2023-12-18,Credit Card,N,SR37,W3,
+ORD1009,CUS_221,Mumbai,Retail,Sports,10.0,1113.59,0.16,2023-10-09,2023-10-01,UPI,No,SR33,W2,check address
+ORD1010,CUS_566,Chennai,Wholesale,Electronics,7.0,171.43,0.12,2023-01-17,2023-08-10,Credit Card,N,SR28,W2,urgent
+ORD1011,CUS_314,Pune,,Electronics,13.0,1049.38,0.22,2023-03-12,2023-08-02,Net Banking,No,SR9,W4,check address
+ORD1012,CUS_430,Mumbai,Retail,Sports,7.0,1622.49,0.05,2023-09-26,2023-12-08,Net Banking,Y,SR12,W1,priority
+ORD1013,CUS_558,Mumbai,Wholesale,Electronics,17.0,945.52,0.17,2023-11-21,2023-02-26,Credit Card,N,SR5,W2,priority
+ORD1014,CUS_187,Kolkata,Online,Electronics,10.0,151.32,0.15,2023-10-09,2023-12-09,UPI,N,SR28,W1,priority
+ORD1015,CUS_472,Mumbai,Online,Electronics,10.0,1583.24,0.07,2023-11-01,2023-04-13,Debit Card,No,SR35,W3,
+ORD1016,CUS_199,Delhi,Retail,Grocery,4.0,442.66,0.03,2023-01-07,2023-07-12,Net Banking,N,SR5,W2,
+ORD1017,CUS_971,Bengaluru,Retail,Grocery,4.0,554.31,0.16,2023-11-10,2023-11-07,Net Banking,N,SR34,W1,check address
+ORD1018,CUS_763,Bengaluru,Retail,Clothing,7.0,371.18,0.18,2023-11-01,2023-07-20,Debit Card,N,SR34,W2,urgent
+ORD1019,CUS_230,Chennai,Wholesale,Furniture,1.0,??,0.08,2023-04-13,2023-08-22,Credit Card,Y,SR13,W2,priority
+ORD1020,CUS_761,Pune,Online,Sports,12.0,1525.67,0.16,2023-11-05,2023-08-16,UPI,N,SR39,W1,check address
+ORD1021,CUS_408,Mumbai,Online,Sports,13.0,1062.8,0.1,2023-07-12,2024-01-07,Credit Card,,SR14,W2,priority
+ORD1022,CUS_869,Delhi,Wholesale,Sports,10.0,449.52,0.18,2023-08-29,2023-05-20,Cash,N,SR11,W2,priority
+ORD1023,CUS_443,Chennai,Online,Clothing,15.0,1761.77,0.05,2023-03-03,2023-12-11,Net Banking,N,SR38,W2,urgent
+ORD1024,CUS_591,Kolkata,Retail,Grocery,13.0,1765.18,0.22,2023-01-17,2023-11-02,Cash,Yes,SR4,W2,
+ORD1025,CUS_513,Chennai,Retail,Clothing,9.0,1747.63,0.07,2023-06-20,2023-05-30,Net Banking,N,SR33,W3,
+ORD1026,CUS_905,,Retail,Sports,9.0,515.65,0.09,2023-01-25,2023-04-26,Net Banking,N,SR7,W2,
+ORD1027,CUS_485,Mumbai,Online,Furniture,15.0,929.92,0.01,2023-09-08,2023-03-05,Cash,N,SR8,W4,check address
+ORD1028,CUS_291,Kolkata,Retail,Electronics,10.0,1970.73,0.03,2023-09-10,2023-04-15,Cash,N,SR37,W2,
+ORD1029,CUS_376,Chennai,Wholesale,Grocery,10.0,1555.42,0.13,2023-07-26,2023-12-06,Credit Card,N,SR10,W1,check address
+ORD1030,CUS_260,Delhi,Wholesale,Grocery,8.0,102.98,0.07,2023-01-29,2023-12-26,Cash,N,SR15,W4,check address
+ORD1031,CUS_559,Delhi,Online,Clothing,16.0,177.15,0.21,2023-04-27,2023-06-06,Credit Card,Y,SR38,W3,
+ORD1032,CUS_413,Bengaluru,Wholesale,Grocery,17.0,954.67,0.0,2023-10-09,2023-10-01,Credit Card,N,SR15,W4,urgent
+ORD1033,CUS_121,Kolkata,Wholesale,Sports,5.0,1822.98,0.09,2023-05-24,2023-01-07,Credit Card,No,SR5,W4,
+ORD1034,CUS_352,Kolkata,Online,Sports,4.0,1100.47,0.08,2023-01-25,2023-05-28,Net Banking,No,SR29,W4,
+ORD1035,CUS_847,Bengaluru,Retail,Clothing,18.0,1020.73,0.0,2023-11-06,2023-07-04,Net Banking,No,SR19,W1,check address
+ORD1036,CUS_956,Chennai,Retail,Sports,19.0,255.67,0.03,2023-06-05,2023-01-29,Cash,Yes,SR10,W1,priority
+ORD1037,CUS_660,Kolkata,Retail,Furniture,4.0,1330.72,0.1,2023-03-14,2023-02-08,Net Banking,N,SR12,W1,priority
+ORD1038,CUS_574,Delhi,Online,Clothing,7.0,1653.1,0.12,2023-04-30,2023-04-30,Cash,Yes,SR4,W3,check address
+ORD1039,CUS_158,Delhi,Wholesale,Furniture,10.0,791.82,0.1,2023-11-08,2023-10-21,Net Banking,N,SR31,W1,
+ORD1040,CUS_610,Mumbai,Retail,Electronics,18.0,1562.44,0.13,2023-11-17,2024-01-07,UPI,N,SR18,W1,urgent
+ORD1041,CUS_781,Kolkata,Retail,Furniture,19.0,1930.73,0.15,2023-04-03,2023-09-02,UPI,N,SR16,W4,
+ORD1042,CUS_575,Chennai,Online,Electronics,4.0,447.34,0.0,2023-03-27,2023-03-10,Cash,Y,SR36,W1,check address
+ORD1043,CUS_799,Bengaluru,Retail,Electronics,10.0,1070.49,0.12,2023-12-02,2023-08-03,Net Banking,Yes,SR25,W2,check address
+ORD1044,CUS_882,Bengaluru,Online,Furniture,1.0,609.92,0.24,2023-12-30,2023-08-07,Net Banking,No,SR23,W1,urgent
+ORD1045,CUS_289,Chennai,Wholesale,Clothing,18.0,1596.07,0.13,2023-04-28,2023-06-27,Credit Card,N,SR12,W3,
+ORD1046,CUS_786,Pune,Online,Sports,5.0,1176.31,0.17,2023-08-21,2023-10-27,Debit Card,No,SR34,W3,
+ORD1047,CUS_662,Hyderabad,Online,Sports,15.0,1287.44,0.08,2023-07-18,2023-06-14,Cash,Y,SR36,W2,urgent
+ORD1048,CUS_975,Mumbai,Online,Electronics,17.0,1605.93,0.19,2023-07-25,2023-02-28,Debit Card,N,SR37,W3,
+ORD1049,CUS_666,Bengaluru,Online,Electronics,3.0,822.14,0.19,2023-12-05,2023-09-27,Debit Card,N,SR3,W3,priority
+ORD1050,CUS_343,Kolkata,Wholesale,Clothing,12.0,1834.43,0.13,2023-05-27,2023-11-05,Cash,N,SR9,W4,
+ORD1051,CUS_931,Mumbai,Wholesale,Grocery,2.0,1089.41,0.24,2023-09-28,2023-02-28,Net Banking,No,SR18,W2,
+ORD1052,CUS_604,Kolkata,Retail,Furniture,1.0,??,0.03,2023-05-19,2023-10-16,Cash,No,SR35,W4,
+ORD1053,CUS_230,Pune,Wholesale,Electronics,17.0,1407.0,0.0,2023-06-30,2023-04-16,Debit Card,Yes,SR34,W4,priority
+ORD1054,CUS_584,Delhi,Wholesale,Sports,16.0,1596.86,0.19,2023-01-30,2023-08-17,Net Banking,N,SR14,W1,
+ORD1055,CUS_918,Mumbai,Retail,Clothing,5.0,667.69,0.2,2023-02-26,2023-09-05,UPI,No,SR4,W2,priority
+ORD1056,CUS_746,Bengaluru,Wholesale,Furniture,15.0,1721.5,0.03,2023-08-20,2023-07-08,Cash,Y,SR29,W1,urgent
+ORD1057,CUS_120,Mumbai,Online,,3.0,1816.98,0.07,2023-05-26,2023-03-25,Cash,No,SR15,W1,
+ORD1058,CUS_940,Mumbai,Online,Furniture,7.0,589.96,0.0,2023-02-17,2023-07-06,Net Banking,N,SR28,W4,urgent
+ORD1059,CUS_266,Mumbai,Retail,Furniture,11.0,1967.87,0.07,2023-07-13,2023-09-10,UPI,Y,SR16,W3,
+ORD1060,CUS_373,Hyderabad,Retail,Electronics,10.0,324.39,0.19,2023-08-12,2023-12-22,UPI,N,SR12,W2,urgent
+ORD1061,CUS_487,Mumbai,Retail,Clothing,9.0,443.93,0.13,2023-05-16,2023-08-27,Net Banking,N,SR5,W3,
+ORD1062,CUS_700,Kolkata,Online,Clothing,14.0,409.24,0.09,2023-01-22,2023-12-27,Credit Card,N,SR34,W4,
+ORD1063,CUS_415,Delhi,Wholesale,Sports,13.0,1793.28,0.09,2023-01-06,2023-07-04,Cash,N,SR1,W4,check address
+ORD1064,CUS_113,Pune,Online,Sports,2.0,1325.87,0.0,2023-07-23,2023-10-12,Cash,Y,SR39,W4,
+ORD1065,CUS_341,Chennai,Retail,Electronics,3.0,346.6,0.07,2023-08-27,2023-07-30,Debit Card,N,SR32,W4,
+ORD1066,CUS_876,,Wholesale,Electronics,7.0,908.63,0.16,2023-07-04,2023-11-01,Net Banking,Y,SR26,W4,check address
+ORD1067,CUS_445,,Wholesale,Grocery,18.0,1249.83,0.24,2023-12-26,2023-10-24,Debit Card,N,SR17,W4,
+ORD1068,CUS_664,Mumbai,Online,Sports,3.0,212.75,0.21,2023-10-19,2023-04-08,Debit Card,Y,SR27,W3,
+ORD1069,CUS_997,Bengaluru,Retail,Furniture,10.0,1770.71,0.01,2023-12-01,2023-07-28,UPI,N,SR24,W1,check address
+ORD1070,CUS_439,Kolkata,Online,Clothing,7.0,1617.03,0.22,2023-08-08,2024-01-06,Cash,N,SR35,W3,priority
+ORD1071,CUS_191,Bengaluru,Wholesale,Electronics,9.0,1035.15,0.2,2023-04-26,2023-05-18,Debit Card,No,SR39,W2,
+ORD1072,CUS_466,Chennai,Online,Clothing,17.0,1935.9,0.2,2023-11-09,2024-01-03,UPI,No,SR26,W3,
+ORD1073,CUS_554,Delhi,Online,Clothing,11.0,864.63,0.11,2023-02-18,2023-07-04,Net Banking,N,SR38,W4,check address
+ORD1074,CUS_527,Bengaluru,Retail,Grocery,,1969.02,0.1,2023-06-22,2023-03-18,Debit Card,Yes,SR23,W3,check address
+ORD1075,CUS_608,Bengaluru,Retail,Sports,14.0,1352.44,0.08,2023-03-23,2023-10-15,Cash,No,SR22,W1,priority
+ORD1076,CUS_875,Delhi,Wholesale,Electronics,19.0,1287.61,0.02,2023-11-18,2024-01-11,Debit Card,,SR4,W2,
+ORD1077,CUS_134,Chennai,Online,Clothing,4.0,373.61,0.06,2023-11-29,2023-05-23,Net Banking,N,SR9,W3,urgent
+ORD1078,CUS_305,Mumbai,Online,Electronics,6.0,1769.76,0.06,2023-02-14,2023-08-26,Debit Card,Y,SR4,W1,
+ORD1079,CUS_180,Bengaluru,Online,Furniture,10.0,883.6,0.12,2023-12-01,2023-01-26,Cash,N,SR7,W3,
+ORD1080,CUS_661,Delhi,Wholesale,Grocery,7.0,366.36,0.19,2023-01-20,2023-10-18,UPI,N,SR23,W2,check address
+ORD1081,CUS_971,Kolkata,Wholesale,Furniture,13.0,74.58,0.12,2023-08-09,2023-03-09,Cash,N,SR2,W3,priority
+ORD1082,CUS_487,Delhi,Retail,Electronics,14.0,1141.52,0.01,2023-05-03,2023-09-08,UPI,N,SR24,W4,
+ORD1083,CUS_101,Kolkata,Retail,Electronics,4.0,1078.43,0.24,2023-08-22,2023-04-29,Credit Card,No,SR31,W3,priority
+ORD1084,CUS_489,Chennai,,Sports,8.0,1452.74,0.24,2023-08-09,2023-03-15,Cash,,SR31,W1,
+ORD1085,CUS_665,Mumbai,Online,Clothing,5.0,1786.0,0.2,2023-11-19,2023-10-10,Cash,N,SR34,W3,
+ORD1086,CUS_205,Delhi,,Clothing,,204.84,0.25,2023-12-05,2023-12-27,Net Banking,Y,SR24,W1,urgent
+ORD1087,CUS_871,Pune,Retail,Furniture,4.0,1476.42,0.14,2023-01-03,2023-01-11,Debit Card,N,SR26,W2,priority
+ORD1088,CUS_921,Pune,Online,Grocery,3.0,415.45,0.24,2023-07-01,2023-07-31,UPI,No,SR16,W3,priority
+ORD1089,CUS_576,Hyderabad,Retail,Clothing,9.0,1723.45,0.02,2023-07-25,2023-11-20,UPI,N,SR13,W2,urgent
+ORD1090,CUS_802,Bengaluru,Wholesale,Sports,8.0,1647.17,0.09,2023-11-16,2023-06-02,Net Banking,N,SR15,W2,priority
+ORD1091,CUS_501,Chennai,Retail,Furniture,1.0,1104.55,0.06,2023-02-09,2023-01-06,Net Banking,N,SR27,W3,priority
+ORD1092,CUS_829,Delhi,Wholesale,Furniture,6.0,1434.97,0.05,2023-02-28,2023-07-15,Debit Card,N,SR4,W1,
+ORD1093,CUS_655,Pune,Online,Sports,9.0,662.98,0.04,2023-03-03,2023-10-11,Debit Card,N,SR16,W2,
+ORD1094,CUS_261,Bengaluru,Retail,Grocery,7.0,968.78,0.16,2023-05-12,2023-04-24,Cash,N,SR30,W2,urgent
+ORD1095,CUS_301,Pune,Online,Sports,4.0,1652.19,0.2,2023-03-01,2023-09-29,Credit Card,Yes,SR30,W3,
+ORD1096,CUS_369,,Wholesale,Grocery,13.0,945.57,0.14,2023-11-27,2023-06-13,Debit Card,,SR36,W3,priority
+ORD1097,CUS_962,Kolkata,Wholesale,Sports,17.0,747.71,0.04,2023-05-02,2023-04-16,Net Banking,No,SR3,W3,
+ORD1098,CUS_915,Delhi,Wholesale,Sports,2.0,1013.71,0.2,2023-04-17,2023-07-01,Debit Card,No,SR22,W3,urgent
+ORD1099,CUS_370,Hyderabad,Online,Electronics,5.0,1665.09,0.16,2023-04-06,2023-02-14,UPI,N,SR22,W3,urgent
+ORD1100,CUS_555,Delhi,Online,Furniture,12.0,703.66,0.1,2023-12-13,2023-10-10,Credit Card,N,SR12,W4,
+ORD1101,CUS_561,Delhi,Online,Sports,8.0,??,0.17,2023-08-23,2023-06-25,Cash,Yes,SR21,W3,priority
+ORD1102,CUS_826,,Online,,6.0,1438.43,0.06,2023-03-03,2023-06-12,UPI,No,SR4,W1,check address
+ORD1103,CUS_351,Chennai,Wholesale,Clothing,8.0,1660.66,0.09,2023-09-13,2023-12-18,UPI,N,SR31,W2,urgent
+ORD1104,CUS_801,Delhi,Wholesale,Furniture,18.0,246.24,0.23,2023-02-18,2023-12-07,Credit Card,N,SR31,W1,priority
+ORD1105,CUS_395,Hyderabad,Retail,Clothing,3.0,517.75,0.07,2023-12-14,2023-05-21,Cash,N,SR23,W1,
+ORD1106,CUS_824,Bengaluru,Retail,Furniture,12.0,326.85,0.12,2023-06-08,2023-05-13,Net Banking,N,SR20,W4,
+ORD1107,CUS_819,Kolkata,,Clothing,3.0,728.49,0.22,2023-05-04,2023-03-29,Cash,N,SR15,W3,
+ORD1108,CUS_848,Kolkata,Wholesale,Sports,6.0,928.18,0.18,2023-11-13,2023-06-26,Debit Card,N,SR23,W2,urgent
+ORD1109,CUS_437,Delhi,Wholesale,Sports,2.0,1510.21,0.02,2023-07-26,2023-07-03,UPI,Y,SR28,W1,urgent
+ORD1110,CUS_978,Chennai,Wholesale,Electronics,12.0,1319.74,0.04,2023-02-17,2024-01-04,Debit Card,N,SR16,W3,
+ORD1111,CUS_152,Chennai,Retail,Clothing,2.0,1260.81,0.0,2023-05-16,2023-05-10,Net Banking,No,SR37,W3,urgent
+ORD1112,CUS_891,Bengaluru,Retail,Grocery,,737.13,0.16,2023-07-20,2023-09-04,Debit Card,N,SR21,W4,priority
+ORD1113,CUS_316,Delhi,Wholesale,Electronics,17.0,1690.82,0.11,2023-09-07,2023-03-31,Cash,N,SR15,W4,urgent
+ORD1114,CUS_863,Kolkata,Wholesale,Clothing,3.0,969.01,0.03,2023-11-10,2023-03-08,Debit Card,N,SR17,W4,
+ORD1115,CUS_287,Chennai,Wholesale,Clothing,2.0,1959.25,0.24,2023-12-23,2023-06-08,Net Banking,No,SR37,W2,priority
+ORD1116,CUS_479,Delhi,,Electronics,8.0,1286.58,0.13,2023-11-14,2024-01-14,Net Banking,N,SR13,W1,check address
+ORD1117,CUS_592,Pune,Wholesale,Sports,12.0,296.22,0.06,2023-10-22,2023-05-30,Net Banking,,SR19,W4,urgent
+ORD1118,CUS_140,Chennai,Wholesale,Clothing,4.0,1368.55,0.13,2023-11-10,2023-12-07,Cash,N,SR30,W4,urgent
+ORD1119,CUS_256,Hyderabad,Online,Sports,5.0,683.95,0.17,2023-07-28,2023-04-27,Net Banking,,SR18,W4,
+ORD1120,CUS_114,Pune,Online,Electronics,13.0,1388.34,0.02,2023-12-21,2023-08-03,UPI,No,SR14,W1,
+ORD1121,CUS_912,Chennai,Retail,Sports,15.0,185.8,0.07,2023-07-30,2024-01-08,Net Banking,N,SR36,W1,
+ORD1122,CUS_164,Kolkata,Wholesale,Furniture,16.0,391.02,0.2,2023-07-11,2023-10-22,Debit Card,Y,SR36,W4,
+ORD1123,CUS_956,Mumbai,Wholesale,Grocery,10.0,1718.69,0.11,2023-02-13,2023-09-11,Debit Card,N,SR20,W4,
+ORD1124,CUS_938,Pune,Online,Clothing,16.0,493.0,0.14,2023-01-29,2023-05-24,Debit Card,N,SR19,W3,
+ORD1125,CUS_620,Bengaluru,Retail,Grocery,12.0,1682.23,0.11,2023-02-28,2023-09-08,Cash,N,SR7,W4,
+ORD1126,CUS_443,Bengaluru,Online,Sports,17.0,594.59,0.01,2023-03-12,2024-01-02,Debit Card,N,SR4,W2,
+ORD1127,CUS_228,Kolkata,Online,Clothing,16.0,1303.62,0.04,2023-04-02,2023-10-30,Cash,N,SR34,W2,check address
+ORD1128,CUS_747,Chennai,,Sports,12.0,1403.59,0.11,2023-09-22,2023-01-26,Cash,Y,SR2,W4,
+ORD1129,CUS_571,Delhi,Online,Furniture,8.0,1049.68,0.05,2023-08-08,2023-10-05,Net Banking,N,SR5,W1,urgent
+ORD1130,CUS_162,Chennai,Wholesale,Electronics,3.0,645.36,0.01,2023-08-03,2024-01-13,UPI,N,SR10,W3,
+ORD1131,CUS_238,Kolkata,Wholesale,Clothing,16.0,464.66,0.21,2023-10-04,2024-01-14,Net Banking,Y,SR32,W1,priority
+ORD1132,CUS_598,Bengaluru,Online,Furniture,13.0,114.72,0.25,2023-03-05,2023-03-12,Net Banking,N,SR13,W4,check address
+ORD1133,CUS_692,Chennai,Retail,Furniture,19.0,642.7,0.2,2023-12-12,2023-04-24,Cash,N,SR39,W2,
+ORD1134,CUS_491,,Retail,Clothing,8.0,1323.67,0.21,2023-10-19,2023-12-30,Cash,N,SR5,W3,
+ORD1135,CUS_774,Pune,Retail,Sports,5.0,1879.69,0.06,2023-09-02,2023-04-23,Debit Card,No,SR10,W1,urgent
+ORD1136,CUS_518,Delhi,Retail,Furniture,8.0,1748.85,0.24,2023-03-03,2023-12-31,Debit Card,N,SR10,W1,
+ORD1137,CUS_388,Pune,Online,Grocery,12.0,1543.83,0.05,2023-11-28,2023-10-31,Net Banking,N,SR38,W4,urgent
+ORD1138,CUS_478,Bengaluru,Wholesale,Furniture,1.0,1587.47,0.24,2023-06-19,2023-04-02,Credit Card,N,SR27,W3,
+ORD1139,CUS_872,,Retail,Sports,6.0,1346.72,0.25,2023-09-26,2023-01-19,Credit Card,No,SR21,W2,
+ORD1140,CUS_589,Mumbai,Online,Sports,18.0,557.56,0.18,2023-09-24,2023-05-30,Debit Card,No,SR8,W4,
+ORD1141,CUS_330,Mumbai,Retail,Grocery,8.0,1819.03,0.25,2023-02-23,2023-08-16,Credit Card,No,SR1,W3,
+ORD1142,CUS_140,Pune,Retail,Furniture,7.0,1357.93,0.14,2023-01-16,2023-08-03,Debit Card,N,SR28,W1,check address
+ORD1143,CUS_127,Hyderabad,Online,Sports,1.0,1142.86,0.06,2023-01-08,2023-12-27,Cash,N,SR39,W4,check address
+ORD1144,CUS_234,Pune,Wholesale,Clothing,16.0,266.43,0.11,2023-04-14,2023-06-01,Net Banking,N,SR14,W1,check address
+ORD1145,CUS_300,Mumbai,Wholesale,Electronics,12.0,921.76,0.15,2023-02-28,2023-07-12,UPI,Y,SR21,W1,
+ORD1146,CUS_939,Bengaluru,Online,Electronics,6.0,947.7,0.02,2023-11-09,2023-02-10,Net Banking,No,SR30,W4,urgent
+ORD1147,CUS_879,Kolkata,Wholesale,Electronics,2.0,1735.9,0.16,2023-02-09,2023-08-31,Debit Card,N,SR21,W4,priority
+ORD1148,CUS_132,Pune,Online,Furniture,14.0,1115.96,0.25,2023-08-25,2023-05-19,Debit Card,Yes,SR9,W4,
+ORD1149,CUS_147,Bengaluru,Online,Grocery,4.0,791.78,0.05,2023-04-04,2023-12-12,Net Banking,N,SR17,W4,priority
+ORD1150,CUS_602,Kolkata,Online,Sports,1.0,1954.76,0.2,2023-08-10,2023-06-30,Debit Card,No,SR5,W4,urgent
+ORD1151,CUS_506,Kolkata,Wholesale,Clothing,18.0,265.91,0.23,2023-07-23,2023-07-20,Credit Card,N,SR31,W1,urgent
+ORD1152,CUS_673,Mumbai,Online,Clothing,13.0,873.97,0.24,2023-05-18,2023-07-23,Credit Card,Y,SR38,W2,
+ORD1153,CUS_827,Pune,,Furniture,2.0,131.95,0.24,2023-10-27,2023-03-03,Debit Card,N,SR19,W2,check address
+ORD1154,CUS_904,Chennai,Wholesale,Electronics,9.0,1492.81,0.13,2023-07-26,2023-07-12,Debit Card,N,SR36,W4,check address
+ORD1155,CUS_198,Delhi,Wholesale,Furniture,2.0,??,0.24,2023-12-02,2023-01-06,Credit Card,N,SR33,W1,urgent
+ORD1156,CUS_783,Mumbai,Wholesale,Grocery,9.0,596.07,0.19,2023-03-22,2024-01-14,Debit Card,No,SR13,W2,
+ORD1157,CUS_971,Mumbai,Wholesale,,1.0,1723.77,0.04,2023-08-06,2023-08-26,Debit Card,N,SR14,W2,
+ORD1158,CUS_825,,,Sports,11.0,619.83,0.12,2023-01-02,2023-07-01,Net Banking,N,SR33,W2,
+ORD1159,CUS_646,Delhi,Wholesale,Sports,3.0,1826.0,0.18,2023-06-27,2023-11-08,UPI,N,SR29,W1,check address
+ORD1160,CUS_838,Bengaluru,Wholesale,Grocery,4.0,1520.23,0.06,2023-12-12,2023-02-07,Credit Card,N,SR36,W4,urgent
+ORD1161,CUS_712,Hyderabad,Online,Grocery,18.0,1619.57,0.16,2023-10-06,2023-02-26,Net Banking,No,SR10,W4,priority
+ORD1162,CUS_561,Pune,Wholesale,Grocery,6.0,85.11,0.17,2023-05-26,2023-08-26,UPI,Yes,SR31,W4,check address
+ORD1163,CUS_742,Hyderabad,Retail,Furniture,3.0,1927.48,0.04,2023-11-14,2023-12-25,Debit Card,Yes,SR6,W3,
+ORD1164,CUS_868,Bengaluru,Retail,Grocery,11.0,1467.01,0.14,2023-08-12,2023-12-16,Debit Card,No,SR1,W3,
+ORD1165,CUS_104,Mumbai,Retail,Clothing,15.0,644.26,0.19,2023-03-03,2023-07-17,Net Banking,Yes,SR7,W3,urgent
+ORD1166,CUS_317,Delhi,Retail,Electronics,5.0,1667.32,0.12,2023-10-21,2023-03-15,Debit Card,N,SR27,W1,check address
+ORD1167,CUS_602,Mumbai,Wholesale,Grocery,10.0,598.97,0.0,2023-08-27,2023-03-01,Cash,Yes,SR21,W2,priority
+ORD1168,CUS_866,Kolkata,Wholesale,Electronics,12.0,1751.87,0.0,2023-07-14,2023-08-29,Net Banking,N,SR28,W2,
+ORD1169,CUS_497,Mumbai,Retail,Furniture,15.0,269.53,0.09,2023-06-15,2023-01-03,UPI,N,SR16,W1,
+ORD1170,CUS_970,Mumbai,Retail,Electronics,17.0,1422.19,0.23,2023-08-10,2023-12-27,Net Banking,Y,SR23,W1,check address
+ORD1171,CUS_894,Bengaluru,Wholesale,Furniture,10.0,1104.36,0.06,2023-03-02,2023-07-08,Credit Card,Yes,SR20,W4,priority
+ORD1172,CUS_492,Bengaluru,Retail,Clothing,6.0,238.24,0.16,2023-05-09,2023-11-04,Net Banking,Yes,SR38,W4,
+ORD1173,CUS_306,Bengaluru,Online,Furniture,18.0,521.69,0.06,2023-06-22,2023-01-31,Debit Card,N,SR25,W3,urgent
+ORD1174,CUS_114,Hyderabad,Retail,Furniture,13.0,74.19,0.08,2023-06-05,2023-09-25,Debit Card,Yes,SR28,W3,
+ORD1175,CUS_957,Kolkata,Retail,Sports,3.0,964.1,0.21,2023-04-20,2023-04-19,Cash,No,SR5,W1,priority
+ORD1176,CUS_653,Bengaluru,Online,Grocery,10.0,637.47,0.18,2023-09-26,2023-11-29,Cash,N,SR21,W3,
+ORD1177,CUS_991,Delhi,,Grocery,14.0,1216.8,0.02,2023-12-22,2023-04-01,Cash,N,SR18,W2,
+ORD1178,CUS_560,Hyderabad,Wholesale,Clothing,6.0,629.61,0.11,2023-10-05,2023-07-25,UPI,Yes,SR6,W1,check address
+ORD1179,CUS_790,Chennai,Wholesale,Clothing,3.0,634.84,0.01,2023-03-15,2024-01-15,Cash,N,SR29,W1,priority
+ORD1180,CUS_674,Delhi,,Grocery,16.0,1499.23,0.12,2023-07-26,2023-08-09,UPI,N,SR19,W2,
+ORD1181,CUS_963,Pune,Online,Sports,7.0,143.88,0.17,2023-10-06,2024-01-14,Cash,Y,SR33,W4,
+ORD1182,CUS_842,Pune,Wholesale,Grocery,14.0,1810.65,0.03,2023-11-22,2023-04-05,UPI,N,SR1,W4,
+ORD1183,CUS_340,Delhi,Retail,Sports,9.0,1711.91,0.07,2023-12-06,2023-04-14,Net Banking,Yes,SR3,W2,
+ORD1184,CUS_663,Bengaluru,Online,Clothing,15.0,1352.22,0.1,2023-12-23,2023-08-12,Net Banking,N,SR21,W2,urgent
+ORD1185,CUS_195,Chennai,Wholesale,Electronics,3.0,1206.78,0.23,2023-12-06,2023-07-06,Debit Card,No,SR35,W3,
+ORD1186,CUS_833,Chennai,Retail,Clothing,2.0,1789.99,0.25,2023-07-23,2023-07-04,UPI,No,SR3,W1,urgent
+ORD1187,CUS_584,Hyderabad,,Clothing,2.0,411.39,0.01,2023-06-10,2023-06-12,Credit Card,Yes,SR25,W3,
+ORD1188,CUS_506,Chennai,Retail,Furniture,3.0,??,0.19,2023-01-28,2023-09-05,Debit Card,N,SR38,W2,urgent
+ORD1189,CUS_330,Pune,Wholesale,Furniture,18.0,517.04,0.09,2023-09-14,2023-02-01,Net Banking,Y,SR20,W3,urgent
+ORD1190,CUS_848,Kolkata,Online,Furniture,14.0,1599.43,0.1,2023-06-14,2023-02-22,UPI,N,SR34,W2,check address
+ORD1191,CUS_754,Bengaluru,Retail,Furniture,18.0,117.61,0.19,2023-03-04,2023-12-12,Cash,Y,SR21,W3,
+ORD1192,CUS_270,Chennai,Online,Sports,10.0,1186.47,0.23,2023-01-22,2023-03-18,Credit Card,No,SR23,W3,urgent
+ORD1193,CUS_640,Hyderabad,Retail,Grocery,2.0,1991.1,0.24,2023-03-11,2023-10-06,Net Banking,N,SR6,W4,
+ORD1194,CUS_135,Pune,Wholesale,Electronics,1.0,1718.61,0.14,2023-04-06,2023-02-10,Debit Card,N,SR13,W2,priority
+ORD1195,CUS_624,Kolkata,Wholesale,Clothing,4.0,1066.82,0.09,2023-06-12,2023-04-12,UPI,N,SR23,W3,urgent
+ORD1196,CUS_259,Mumbai,Online,Sports,14.0,174.1,0.2,2023-03-20,2023-04-22,Credit Card,Yes,SR9,W1,
+ORD1197,CUS_938,Mumbai,Retail,Electronics,1.0,1671.18,0.06,2023-01-05,2023-11-18,UPI,No,SR17,W3,check address
+ORD1198,CUS_798,,Online,Sports,14.0,1218.01,0.14,2023-11-12,2023-09-07,Cash,N,SR2,W3,
+ORD1199,CUS_342,Pune,Online,Sports,,274.12,0.09,2023-04-30,2023-07-11,Debit Card,No,SR19,W1,check address
+ORD1200,CUS_185,Hyderabad,Retail,Clothing,14.0,233.02,0.16,2023-10-29,2023-07-02,UPI,N,SR19,W2,priority
+ORD1201,CUS_895,Kolkata,Retail,Grocery,3.0,1823.77,0.06,2023-06-27,2023-12-02,Net Banking,N,SR7,W4,urgent
+ORD1202,CUS_677,Bengaluru,Retail,Furniture,3.0,1354.94,0.05,2023-06-25,2023-07-29,Debit Card,No,SR20,W4,urgent
+ORD1203,CUS_781,Bengaluru,Wholesale,Grocery,9.0,1667.11,0.23,2023-08-05,2023-01-23,Net Banking,N,SR9,W4,
+ORD1204,CUS_656,Mumbai,Online,Clothing,6.0,1764.01,0.03,2023-02-25,2023-06-16,UPI,,SR17,W1,urgent
+ORD1205,CUS_673,Chennai,Online,Clothing,13.0,1164.96,0.13,2023-07-06,2023-04-10,Debit Card,N,SR27,W3,
+ORD1206,CUS_745,Hyderabad,Wholesale,Clothing,2.0,1059.02,0.06,2023-08-20,2023-07-28,Net Banking,Y,SR2,W2,priority
+ORD1207,CUS_895,Mumbai,Retail,Electronics,8.0,889.33,0.01,2023-09-12,2023-01-09,Cash,No,SR36,W3,check address
+ORD1208,CUS_127,Chennai,Wholesale,Grocery,2.0,668.05,0.01,2023-04-14,2023-07-10,Cash,Y,SR19,W4,priority
+ORD1209,CUS_719,Chennai,Wholesale,Grocery,4.0,897.46,0.04,2023-03-18,2023-06-25,UPI,,SR17,W3,urgent
+ORD1210,CUS_655,Bengaluru,,,15.0,1559.07,0.22,2023-08-18,2023-10-01,Debit Card,,SR5,W1,check address
+ORD1211,CUS_439,Pune,Online,Sports,4.0,1223.75,0.07,2023-09-15,2023-01-18,Credit Card,N,SR39,W1,
+ORD1212,CUS_897,Delhi,Wholesale,Sports,13.0,1790.42,0.24,2023-09-21,2023-04-01,Debit Card,N,SR18,W2,priority
+ORD1213,CUS_430,Pune,Online,Clothing,12.0,914.59,0.15,2023-11-27,2023-05-22,Cash,N,SR7,W2,check address
+ORD1214,CUS_739,Delhi,Online,Grocery,13.0,1233.82,0.11,2023-07-01,2023-05-26,Net Banking,N,SR17,W4,check address
+ORD1215,CUS_605,Kolkata,,Clothing,14.0,1281.05,0.15,2023-09-13,2023-06-16,Credit Card,Y,SR39,W2,check address
+ORD1216,CUS_447,Bengaluru,Retail,,18.0,1203.81,0.13,2023-02-07,2023-12-04,UPI,N,SR36,W3,
+ORD1217,CUS_572,Chennai,Online,Sports,6.0,1420.14,0.19,2023-06-25,2023-03-20,Credit Card,N,SR4,W1,priority
+ORD1218,CUS_330,Hyderabad,Online,Clothing,11.0,513.0,0.07,2023-01-27,2023-09-20,UPI,N,SR38,W1,check address
+ORD1219,CUS_289,Delhi,Retail,Clothing,2.0,1049.11,0.09,2023-10-03,2023-06-13,Credit Card,,SR25,W1,priority
+ORD1220,CUS_324,Pune,Online,Electronics,19.0,253.24,0.22,2023-05-20,2024-01-02,UPI,No,SR5,W2,check address
+ORD1221,CUS_484,,Wholesale,Furniture,19.0,799.8,0.24,2023-10-26,2023-01-15,UPI,Yes,SR30,W1,
+ORD1222,CUS_476,Delhi,Wholesale,Grocery,5.0,1000.95,0.22,2023-10-14,2023-08-28,Credit Card,N,SR12,W1,
+ORD1223,CUS_382,Delhi,Online,Furniture,19.0,1321.84,0.1,2023-04-01,2023-03-14,Credit Card,No,SR4,W1,
+ORD1224,CUS_732,Delhi,Retail,Sports,2.0,1903.54,0.2,2023-03-02,2023-05-24,UPI,N,SR24,W4,urgent
+ORD1225,CUS_727,Hyderabad,,Clothing,10.0,1221.27,0.12,2023-12-31,2023-11-07,Cash,Yes,SR29,W4,check address
+ORD1226,CUS_844,Bengaluru,Retail,Electronics,2.0,1500.01,0.12,2023-12-13,2023-10-11,Credit Card,,SR9,W2,urgent
+ORD1227,CUS_358,Hyderabad,Retail,Electronics,11.0,1037.22,0.05,2023-06-12,2023-09-27,Debit Card,N,SR4,W1,priority
+ORD1228,CUS_458,Mumbai,Wholesale,Grocery,18.0,1286.5,0.15,2023-12-17,2023-08-30,Net Banking,N,SR24,W2,urgent
+ORD1229,CUS_809,Chennai,Retail,Furniture,15.0,??,0.05,2023-05-23,2023-09-03,UPI,No,SR14,W1,priority
+ORD1230,CUS_555,Bengaluru,Wholesale,Grocery,9.0,546.06,0.08,2023-09-10,2023-06-13,UPI,No,SR5,W1,priority
+ORD1231,CUS_510,Bengaluru,Retail,Clothing,19.0,755.61,0.21,2023-09-26,2023-03-02,Net Banking,Yes,SR18,W1,priority
+ORD1232,CUS_748,,Wholesale,Grocery,9.0,971.36,0.05,2023-10-18,2023-01-07,Cash,N,SR19,W2,urgent
+ORD1233,CUS_417,Pune,Online,Electronics,3.0,139.02,0.02,2023-07-06,2023-07-17,Net Banking,N,SR12,W2,check address
+ORD1234,CUS_776,Bengaluru,Wholesale,Electronics,9.0,323.05,0.02,2023-10-31,2023-02-28,Credit Card,Y,SR18,W1,urgent
+ORD1235,CUS_324,Hyderabad,Wholesale,Sports,14.0,589.79,0.24,2023-10-18,2023-11-02,Net Banking,Yes,SR17,W3,check address
+ORD1236,CUS_918,Bengaluru,Wholesale,Sports,19.0,1944.49,0.13,2023-03-27,2023-08-06,UPI,Y,SR30,W2,check address
+ORD1237,CUS_333,Kolkata,Wholesale,Clothing,7.0,696.13,0.1,2023-06-15,2023-01-27,Net Banking,No,SR24,W4,priority
+ORD1238,CUS_783,Chennai,Retail,Furniture,16.0,989.98,0.2,2023-04-24,2023-10-31,Debit Card,N,SR11,W2,urgent
+ORD1239,CUS_763,Bengaluru,Online,Grocery,16.0,432.39,0.21,2023-12-22,2023-01-06,Credit Card,N,SR35,W1,check address
+ORD1240,CUS_926,Chennai,Wholesale,Clothing,1.0,1241.02,0.08,2023-07-02,2023-01-21,Net Banking,N,SR23,W3,
+ORD1241,CUS_473,Kolkata,Retail,Sports,4.0,597.33,0.17,2023-07-26,2023-07-18,UPI,Yes,SR17,W1,check address
+ORD1242,CUS_771,Kolkata,Online,Grocery,4.0,453.64,0.19,2023-09-13,2023-03-01,Credit Card,N,SR1,W4,
+ORD1243,CUS_707,Chennai,Online,Sports,7.0,1057.32,0.16,2023-08-23,2023-08-31,UPI,N,SR15,W2,urgent
+ORD1244,CUS_571,Delhi,Online,Grocery,8.0,60.74,0.04,2023-12-21,2023-05-27,Cash,N,SR32,W2,urgent
+ORD1245,CUS_332,Mumbai,Online,Furniture,17.0,64.94,0.22,2023-01-03,2023-10-01,Debit Card,N,SR9,W1,urgent
+ORD1246,CUS_791,Pune,Wholesale,Clothing,5.0,477.18,0.13,2023-07-27,2023-09-07,Cash,N,SR15,W1,check address
+ORD1247,CUS_212,Delhi,Wholesale,Grocery,7.0,121.61,0.07,2023-07-16,2023-01-15,Debit Card,No,SR28,W4,
+ORD1248,CUS_929,Delhi,Retail,Electronics,4.0,260.65,0.11,2023-12-07,2023-01-14,Net Banking,N,SR24,W3,check address
+ORD1249,CUS_596,Hyderabad,Retail,Electronics,6.0,710.78,0.01,2023-05-05,2023-02-14,Credit Card,Y,SR35,W4,check address
+ORD1250,CUS_541,Pune,Retail,,7.0,1615.04,0.03,2023-05-18,2024-01-11,Net Banking,No,SR22,W3,priority
+ORD1251,CUS_663,Pune,Online,Grocery,18.0,1165.49,0.19,2023-12-05,2023-01-20,Debit Card,,SR27,W2,priority
+ORD1252,CUS_367,Delhi,Online,Grocery,5.0,1049.7,0.0,2023-01-25,2023-03-05,Debit Card,N,SR19,W3,check address
+ORD1253,CUS_609,Bengaluru,Wholesale,Electronics,3.0,622.3,0.1,2023-03-09,2023-08-28,Debit Card,N,SR12,W3,
+ORD1254,CUS_906,Hyderabad,Online,Electronics,7.0,1866.92,0.13,2023-03-02,2023-12-04,UPI,No,SR20,W2,priority
+ORD1255,CUS_485,Hyderabad,Online,Grocery,14.0,824.18,0.01,2023-01-29,2023-04-11,Credit Card,,SR1,W2,check address
+ORD1256,CUS_486,Kolkata,Online,Sports,7.0,219.83,0.24,2023-01-19,2023-06-13,Net Banking,Yes,SR21,W2,
+ORD1257,CUS_212,Pune,Retail,Sports,5.0,1253.28,0.06,2023-06-20,2023-05-03,Net Banking,N,SR1,W4,
+ORD1258,CUS_712,Delhi,Retail,Furniture,5.0,271.98,0.08,2023-03-15,2023-02-14,Cash,N,SR10,W2,urgent
+ORD1259,CUS_724,Kolkata,Wholesale,Clothing,2.0,723.19,0.08,2023-03-02,2023-12-27,Debit Card,Yes,SR32,W1,check address
+ORD1260,CUS_180,Chennai,Online,Sports,6.0,1039.45,0.06,2023-06-02,2023-11-14,Debit Card,N,SR39,W2,check address
+ORD1261,CUS_798,Mumbai,Online,,15.0,1754.73,0.0,2023-10-03,2023-05-26,Debit Card,N,SR22,W2,
+ORD1262,CUS_212,Hyderabad,,Sports,10.0,1012.42,0.18,2023-02-17,2023-11-24,Net Banking,No,SR18,W2,priority
+ORD1263,CUS_101,Chennai,Online,Furniture,7.0,1419.4,0.24,2023-07-30,2023-12-30,Cash,N,SR32,W3,priority
+ORD1264,CUS_741,Chennai,Online,Furniture,5.0,1985.99,0.06,2023-12-09,2023-02-20,UPI,N,SR27,W4,priority
+ORD1265,CUS_319,Bengaluru,Retail,Clothing,1.0,306.4,0.17,2023-05-19,2023-03-07,Credit Card,N,SR28,W2,urgent
+ORD1266,CUS_665,Mumbai,Wholesale,Sports,13.0,585.73,0.19,2023-04-20,2023-12-22,UPI,N,SR18,W4,
+ORD1267,CUS_954,Chennai,Wholesale,Electronics,18.0,819.42,0.21,2023-07-02,2023-10-16,Net Banking,N,SR39,W1,
+ORD1268,CUS_835,Chennai,Wholesale,Electronics,13.0,872.56,0.11,2023-01-28,2023-06-14,Debit Card,Yes,SR29,W1,priority
+ORD1269,CUS_324,Mumbai,Wholesale,Grocery,18.0,851.49,0.08,2023-07-16,2023-05-22,Credit Card,N,SR18,W2,priority
+ORD1270,CUS_484,Mumbai,Retail,Electronics,5.0,1819.84,0.08,2023-07-10,2023-11-11,Net Banking,N,SR8,W1,
+ORD1271,CUS_502,Chennai,Retail,Clothing,13.0,1442.36,0.18,2023-11-11,2023-05-09,Net Banking,,SR31,W4,
+ORD1272,CUS_737,Mumbai,Online,Clothing,4.0,1235.42,0.2,2023-02-20,2024-01-04,Net Banking,N,SR34,W3,check address
+ORD1273,CUS_229,Chennai,Online,Electronics,17.0,653.28,0.05,2023-05-29,2023-08-28,Credit Card,N,SR7,W2,check address
+ORD1274,CUS_152,Chennai,Online,Electronics,3.0,1656.39,0.09,2023-09-25,2023-11-21,Credit Card,,SR36,W1,
+ORD1275,CUS_783,Bengaluru,Online,Grocery,17.0,1912.37,0.23,2023-02-19,2023-10-24,Cash,Yes,SR18,W4,
+ORD1276,CUS_829,Delhi,Retail,Electronics,,1651.34,0.2,2023-09-03,2023-07-07,Cash,N,SR38,W4,urgent
+ORD1277,CUS_771,Chennai,Wholesale,Grocery,4.0,53.05,0.25,2023-04-23,2023-07-28,UPI,No,SR9,W1,urgent
+ORD1278,CUS_809,Kolkata,Retail,Grocery,,1290.98,0.19,2023-06-19,2023-08-09,Credit Card,N,SR9,W4,
+ORD1279,CUS_515,Hyderabad,Online,Electronics,16.0,149.71,0.1,2023-06-15,2023-07-10,Credit Card,Yes,SR8,W4,check address
+ORD1280,CUS_346,Pune,Retail,Furniture,18.0,552.33,0.15,2023-01-14,2023-12-13,Credit Card,N,SR35,W2,
+ORD1281,CUS_935,Delhi,Wholesale,Furniture,8.0,166.07,0.17,2023-07-22,2023-10-12,Cash,No,SR18,W4,
+ORD1282,CUS_538,Delhi,Wholesale,Grocery,3.0,1227.4,0.02,2023-10-15,2023-12-19,Net Banking,N,SR5,W1,check address
+ORD1283,CUS_302,Delhi,,Electronics,9.0,1388.85,0.14,2023-07-08,2023-08-26,Debit Card,N,SR14,W2,urgent
+ORD1284,CUS_283,Bengaluru,Retail,Furniture,6.0,273.25,0.18,2023-06-04,2023-07-14,Cash,N,SR28,W1,check address
+ORD1285,CUS_222,Chennai,Retail,Electronics,10.0,798.49,0.04,2023-02-24,2023-10-15,Credit Card,N,SR30,W3,priority
+ORD1286,CUS_500,Bengaluru,Online,Electronics,10.0,939.66,0.2,2023-07-01,2023-09-17,Cash,Yes,SR4,W1,priority
+ORD1287,CUS_866,Chennai,Retail,,13.0,769.65,0.15,2023-07-29,2023-09-04,UPI,N,SR39,W1,priority
+ORD1288,CUS_393,Bengaluru,Retail,Sports,17.0,286.0,0.24,2023-03-16,2023-05-17,Credit Card,N,SR20,W2,
+ORD1289,CUS_379,Bengaluru,Retail,Electronics,9.0,866.95,0.01,2023-10-04,2023-10-08,UPI,N,SR25,W4,urgent
+ORD1290,CUS_936,Hyderabad,Wholesale,Sports,17.0,1514.8,0.07,2023-05-13,2023-09-29,Credit Card,N,SR28,W1,urgent
+ORD1291,CUS_983,Kolkata,Wholesale,Grocery,9.0,188.46,0.15,2023-12-09,2023-06-21,Cash,Yes,SR12,W2,
+ORD1292,CUS_709,Bengaluru,Online,Furniture,9.0,206.35,0.07,2023-02-28,2023-06-09,Net Banking,No,SR2,W3,
+ORD1293,CUS_297,Hyderabad,Online,Furniture,1.0,741.8,0.18,2023-12-11,2023-07-21,Debit Card,N,SR14,W2,priority
+ORD1294,CUS_610,Mumbai,Wholesale,Furniture,2.0,1886.37,0.19,2023-07-01,2023-02-15,UPI,No,SR22,W2,priority
+ORD1295,CUS_851,Kolkata,Wholesale,Furniture,16.0,1353.72,0.03,2023-12-05,2023-09-22,Cash,No,SR31,W4,
+ORD1296,CUS_243,Bengaluru,Wholesale,Furniture,1.0,1373.41,0.13,2023-11-17,2023-03-13,Net Banking,N,SR23,W1,check address
+ORD1297,CUS_708,Pune,Retail,Furniture,10.0,755.74,0.13,2023-03-05,2023-12-31,Cash,N,SR20,W3,check address
+ORD1298,CUS_300,Delhi,Retail,Furniture,18.0,1207.64,0.09,2023-11-23,2024-01-07,UPI,No,SR38,W2,urgent
+ORD1299,CUS_223,Mumbai,Wholesale,Grocery,8.0,69.76,0.23,2023-09-17,2023-04-14,Debit Card,N,SR4,W1,
+ORD1300,CUS_286,Mumbai,Retail,Electronics,11.0,1290.39,0.21,2023-07-12,2023-05-06,Cash,No,SR15,W1,urgent
+ORD1301,CUS_425,Hyderabad,Retail,Clothing,2.0,1830.91,0.17,2023-05-23,2023-11-10,Credit Card,N,SR24,W2,check address
+ORD1302,CUS_563,Mumbai,Online,Sports,8.0,1244.52,0.18,2023-04-14,2023-10-14,Net Banking,N,SR25,W1,
+ORD1303,CUS_448,Kolkata,Wholesale,Clothing,8.0,1753.71,0.12,2023-08-02,2023-08-19,Cash,N,SR1,W2,urgent
+ORD1304,CUS_870,Bengaluru,Wholesale,Clothing,17.0,??,0.23,2023-08-30,2023-05-27,Net Banking,N,SR7,W2,priority
+ORD1305,CUS_759,Bengaluru,Retail,,15.0,285.09,0.17,2023-07-28,2024-01-06,Credit Card,,SR31,W2,priority
+ORD1306,CUS_863,Pune,Wholesale,Electronics,17.0,1809.78,0.18,2023-04-03,2023-07-17,Debit Card,N,SR12,W3,
+ORD1307,CUS_502,Delhi,Online,Electronics,13.0,179.57,0.22,2023-05-22,2024-01-09,Debit Card,N,SR5,W2,check address
+ORD1308,CUS_445,Hyderabad,Online,Furniture,19.0,1091.24,0.07,2023-04-22,2023-08-10,Credit Card,No,SR38,W4,priority
+ORD1309,CUS_610,Delhi,Online,Grocery,5.0,327.17,0.2,2023-02-28,2023-03-02,Net Banking,N,SR12,W1,priority
+ORD1310,CUS_246,Mumbai,Wholesale,Furniture,12.0,72.83,0.05,2023-02-12,2023-04-09,Cash,N,SR39,W3,
+ORD1311,CUS_247,Pune,Wholesale,Grocery,1.0,872.97,0.09,2023-07-26,2023-06-21,Credit Card,Yes,SR18,W1,urgent
+ORD1312,CUS_963,Delhi,Wholesale,Grocery,5.0,625.33,0.08,2023-09-25,2023-06-23,UPI,Yes,SR2,W3,check address
+ORD1313,CUS_810,Kolkata,Wholesale,Clothing,8.0,997.7,0.24,2023-10-23,2023-06-01,Net Banking,N,SR10,W4,urgent
+ORD1314,CUS_919,Bengaluru,Wholesale,Clothing,13.0,1175.54,0.21,2023-04-28,2023-12-17,Debit Card,N,SR15,W3,check address
+ORD1315,CUS_588,Mumbai,Online,Grocery,8.0,135.29,0.18,2023-01-20,2023-05-03,Credit Card,N,SR30,W3,priority
+ORD1316,CUS_739,Pune,Retail,Grocery,11.0,289.86,0.18,2023-08-10,2023-04-19,Debit Card,N,SR17,W3,
+ORD1317,CUS_650,Delhi,Online,Furniture,1.0,1139.35,0.14,2023-06-15,2023-01-05,Net Banking,N,SR4,W1,urgent
+ORD1318,CUS_437,Hyderabad,,Furniture,13.0,719.18,0.24,2023-05-11,2023-04-04,Debit Card,N,SR7,W2,priority
+ORD1319,CUS_971,Kolkata,Online,Clothing,19.0,1471.89,0.12,2023-06-05,2023-01-07,Credit Card,N,SR31,W1,check address
+ORD1320,CUS_740,Kolkata,Wholesale,Electronics,3.0,1321.97,0.1,2023-07-03,2023-10-16,Net Banking,N,SR39,W2,urgent
+ORD1321,CUS_878,Delhi,Wholesale,Grocery,17.0,1698.93,0.04,2023-03-31,2023-04-17,UPI,Y,SR34,W1,urgent
+ORD1322,CUS_572,Bengaluru,Online,Furniture,5.0,1400.36,0.2,2023-04-04,2023-05-27,Credit Card,N,SR6,W4,priority
+ORD1323,CUS_250,Delhi,Wholesale,Clothing,8.0,888.37,0.18,2023-01-13,2023-09-29,Cash,No,SR38,W4,urgent
+ORD1324,CUS_514,Mumbai,Retail,Furniture,14.0,1362.28,0.1,2023-11-18,2024-01-14,Credit Card,Yes,SR34,W3,
+ORD1325,CUS_397,Delhi,Wholesale,Grocery,4.0,??,0.01,2023-10-20,2023-04-07,Net Banking,N,SR15,W4,
+ORD1326,CUS_710,Kolkata,Retail,Grocery,11.0,647.31,0.21,2023-08-18,2023-08-18,Credit Card,Y,SR14,W3,priority
+ORD1327,CUS_362,Pune,Retail,Sports,15.0,1588.52,0.0,2023-11-18,2023-07-22,UPI,N,SR6,W2,check address
+ORD1328,CUS_863,Delhi,Wholesale,Electronics,19.0,920.52,0.18,2023-10-19,2023-08-01,UPI,N,SR37,W4,priority
+ORD1329,CUS_243,Bengaluru,Online,Sports,7.0,??,0.24,2023-01-26,2023-01-07,Cash,N,SR32,W2,
+ORD1330,CUS_445,Pune,Retail,Clothing,19.0,1653.72,0.11,2023-03-16,2023-04-23,Debit Card,N,SR3,W1,
+ORD1331,CUS_723,Hyderabad,Online,Furniture,19.0,1722.25,0.06,2023-12-30,2024-01-12,Net Banking,N,SR3,W2,
+ORD1332,CUS_671,Chennai,Retail,Clothing,11.0,1837.44,0.18,2023-10-26,2024-01-15,Net Banking,No,SR22,W1,urgent
+ORD1333,CUS_980,Delhi,Wholesale,Grocery,5.0,890.42,0.2,2023-05-30,2023-11-20,Debit Card,N,SR22,W2,urgent
+ORD1334,CUS_101,Bengaluru,Wholesale,,,671.79,0.14,2023-05-28,2023-04-17,UPI,N,SR10,W2,
+ORD1335,CUS_996,Pune,Retail,Sports,8.0,1185.29,0.24,2023-01-08,2023-05-20,UPI,No,SR3,W4,
+ORD1336,CUS_403,Bengaluru,Wholesale,Sports,10.0,773.79,0.01,2023-01-29,2023-10-27,Credit Card,N,SR12,W2,urgent
+ORD1337,CUS_353,Hyderabad,Retail,Clothing,6.0,1222.09,0.13,2023-10-23,2023-04-07,Cash,N,SR29,W4,priority
+ORD1338,CUS_751,Kolkata,Wholesale,Grocery,15.0,1425.89,0.18,2023-07-28,2023-12-04,Cash,N,SR17,W4,priority
+ORD1339,CUS_552,Bengaluru,Online,Furniture,16.0,1392.39,0.22,2023-05-08,2023-10-25,Cash,N,SR7,W3,
+ORD1340,CUS_136,Pune,Wholesale,Furniture,17.0,780.38,0.04,2023-12-06,2023-08-03,Credit Card,Yes,SR13,W3,urgent
+ORD1341,CUS_259,Bengaluru,Online,Clothing,8.0,375.38,0.2,2023-04-26,2023-10-19,Cash,N,SR2,W1,priority
+ORD1342,CUS_108,Bengaluru,Wholesale,Sports,8.0,889.53,0.14,2023-05-24,2023-01-23,Debit Card,N,SR4,W2,urgent
+ORD1343,CUS_332,Bengaluru,Online,Electronics,9.0,328.06,0.1,2023-11-14,2023-07-13,Credit Card,N,SR10,W1,urgent
+ORD1344,CUS_198,Mumbai,Wholesale,Clothing,2.0,1785.69,0.03,2023-08-23,2023-05-31,Debit Card,Y,SR39,W2,priority
+ORD1345,CUS_758,Mumbai,Online,Clothing,15.0,724.46,0.22,2023-01-07,2024-01-04,Credit Card,No,SR24,W3,
+ORD1346,CUS_915,Kolkata,Retail,Grocery,18.0,351.2,0.04,2023-02-14,2023-09-05,Cash,Yes,SR17,W3,priority
+ORD1347,CUS_307,Delhi,Retail,Furniture,3.0,99.62,0.08,2023-08-27,2023-09-25,Debit Card,N,SR6,W2,
+ORD1348,CUS_230,Bengaluru,Online,Clothing,17.0,1309.35,0.07,2023-06-04,2023-09-09,Debit Card,N,SR19,W2,check address
+ORD1349,CUS_503,Hyderabad,Wholesale,Clothing,4.0,1291.96,0.22,2023-06-30,2023-01-04,Debit Card,N,SR5,W3,priority
+ORD1350,CUS_251,Delhi,Online,Sports,4.0,714.18,0.17,2023-08-03,2023-11-13,Credit Card,No,SR32,W3,urgent
+ORD1351,CUS_153,Hyderabad,Wholesale,Sports,14.0,189.84,0.2,2023-03-29,2023-03-18,Net Banking,N,SR10,W1,urgent
+ORD1352,CUS_219,Delhi,Retail,Electronics,9.0,848.78,0.06,2023-09-13,2023-03-29,Cash,Y,SR9,W3,priority
+ORD1353,CUS_772,Kolkata,Wholesale,Grocery,9.0,656.87,0.16,2023-03-14,2023-09-28,Debit Card,N,SR27,W2,check address
+ORD1354,CUS_727,Bengaluru,Retail,Electronics,18.0,1370.39,0.14,2023-06-28,2023-08-14,Net Banking,N,SR13,W1,priority
+ORD1355,CUS_686,Bengaluru,Wholesale,Sports,10.0,1231.27,0.21,2023-07-31,2023-01-19,Cash,N,SR19,W2,check address
+ORD1356,CUS_724,Chennai,Wholesale,Furniture,4.0,760.96,0.23,2023-10-20,2023-04-24,Cash,Y,SR21,W4,check address
+ORD1357,CUS_519,Hyderabad,Wholesale,Sports,12.0,474.89,0.0,2023-08-22,2023-09-09,Debit Card,N,SR24,W1,
+ORD1358,CUS_521,Delhi,Online,Grocery,8.0,1976.67,0.17,2023-08-27,2023-08-22,Debit Card,N,SR38,W2,urgent
+ORD1359,CUS_203,Delhi,Online,Sports,2.0,935.3,0.01,2023-08-11,2023-11-26,Credit Card,N,SR4,W3,urgent
+ORD1360,CUS_951,Mumbai,Retail,Grocery,13.0,1392.13,0.14,2023-04-29,2023-10-07,Net Banking,No,SR24,W4,check address
+ORD1361,CUS_353,Chennai,Retail,Grocery,16.0,324.08,0.07,2023-11-09,2023-07-22,Net Banking,Y,SR35,W2,urgent
+ORD1362,CUS_326,Pune,Online,Grocery,2.0,996.9,0.08,2023-09-21,2023-03-25,Debit Card,N,SR3,W1,
+ORD1363,CUS_211,Pune,Retail,Grocery,11.0,103.7,0.09,2023-07-26,2023-05-06,Cash,N,SR4,W2,check address
+ORD1364,CUS_609,Mumbai,Online,Grocery,10.0,1035.64,0.16,2023-04-05,2023-06-25,Debit Card,N,SR37,W4,urgent
+ORD1365,CUS_572,Mumbai,Wholesale,Furniture,15.0,??,0.08,2023-08-10,2023-03-11,Cash,N,SR35,W1,
+ORD1366,CUS_198,Mumbai,Retail,Electronics,17.0,799.2,0.18,2023-10-03,2023-02-17,Cash,No,SR31,W4,
+ORD1367,CUS_252,Hyderabad,Retail,Clothing,8.0,126.04,0.1,2023-08-19,2024-01-08,Debit Card,N,SR25,W2,urgent
+ORD1368,CUS_960,Hyderabad,Online,Electronics,18.0,110.36,0.02,2023-11-05,2023-09-14,UPI,No,SR13,W3,
+ORD1369,CUS_995,Kolkata,Retail,Grocery,9.0,806.57,0.2,2023-04-29,2023-08-04,Net Banking,N,SR4,W3,priority
+ORD1370,CUS_977,Kolkata,Retail,Furniture,8.0,362.05,0.07,2023-09-25,2023-01-31,Cash,N,SR14,W2,priority
+ORD1371,CUS_437,Mumbai,Wholesale,,14.0,95.54,0.11,2023-09-30,2023-10-09,Cash,N,SR13,W2,
+ORD1372,CUS_805,Chennai,Retail,Furniture,18.0,1524.62,0.17,2023-03-05,2023-08-26,UPI,N,SR27,W2,check address
+ORD1373,CUS_921,Delhi,Wholesale,Grocery,12.0,944.12,0.08,2023-10-25,2023-09-06,Credit Card,Yes,SR6,W1,check address
+ORD1374,CUS_262,Hyderabad,Online,Furniture,19.0,614.03,0.01,2023-12-16,2024-01-04,UPI,Yes,SR17,W4,urgent
+ORD1375,CUS_819,Chennai,Retail,Furniture,14.0,1805.16,0.09,2023-01-11,2023-01-26,UPI,No,SR36,W4,priority
+ORD1376,CUS_780,Bengaluru,Wholesale,Grocery,17.0,276.47,0.24,2023-04-08,2023-03-16,Cash,,SR35,W4,check address
+ORD1377,CUS_260,Hyderabad,Online,Furniture,3.0,1914.04,0.16,2023-03-12,2023-07-26,Net Banking,Yes,SR17,W2,check address
+ORD1378,CUS_679,Hyderabad,Retail,Clothing,7.0,662.24,0.17,2023-12-30,2023-11-11,UPI,N,SR2,W4,priority
+ORD1379,CUS_900,Kolkata,Online,,17.0,1782.39,0.16,2023-02-27,2023-04-05,Credit Card,N,SR13,W2,
+ORD1380,CUS_497,Delhi,Retail,Furniture,12.0,1225.74,0.05,2023-10-17,2024-01-11,Debit Card,N,SR2,W1,check address
+ORD1381,CUS_376,Delhi,Online,Sports,9.0,1662.08,0.1,2023-09-08,2023-05-08,UPI,Y,SR28,W3,
+ORD1382,CUS_915,Pune,Online,Grocery,15.0,1968.83,0.19,2023-10-03,2023-01-26,UPI,Yes,SR26,W2,urgent
+ORD1383,CUS_603,Pune,Wholesale,Clothing,18.0,612.39,0.03,2023-02-19,2023-12-01,Credit Card,N,SR22,W2,check address
+ORD1384,CUS_995,Pune,Online,Sports,13.0,1924.21,0.07,2023-12-24,2023-12-22,Net Banking,Y,SR3,W3,check address
+ORD1385,CUS_491,Pune,Retail,Furniture,8.0,809.49,0.07,2023-08-04,2023-04-27,UPI,Y,SR35,W3,
+ORD1386,CUS_234,Bengaluru,Retail,Sports,14.0,801.75,0.11,2023-02-21,2023-02-18,UPI,N,SR12,W1,
+ORD1387,CUS_294,Bengaluru,Wholesale,Electronics,8.0,713.75,0.25,2023-09-28,2023-08-15,Net Banking,N,SR24,W4,urgent
+ORD1388,CUS_500,Hyderabad,Retail,Clothing,14.0,1105.74,0.02,2023-03-25,2023-09-24,Credit Card,N,SR5,W2,check address
+ORD1389,CUS_739,Mumbai,Retail,Furniture,7.0,350.58,0.13,2023-10-20,2023-04-10,UPI,N,SR20,W4,urgent
+ORD1390,CUS_132,Kolkata,Retail,Grocery,12.0,1129.74,0.04,2023-05-06,2023-01-12,Net Banking,N,SR39,W2,priority
+ORD1391,CUS_787,Kolkata,Online,Furniture,11.0,1106.32,0.24,2023-10-23,2023-03-27,UPI,N,SR39,W1,check address
+ORD1392,CUS_559,Pune,Online,Grocery,11.0,1535.71,0.03,2023-03-13,2023-08-03,Debit Card,N,SR13,W3,check address
+ORD1393,CUS_982,Hyderabad,Retail,Furniture,13.0,1675.62,0.1,2023-10-23,2023-06-23,Cash,N,SR12,W1,priority
+ORD1394,CUS_569,Chennai,Wholesale,Sports,18.0,908.86,0.18,2023-08-24,2023-07-29,Debit Card,N,SR13,W3,
+ORD1395,CUS_474,Mumbai,Online,Sports,2.0,639.55,0.18,2023-02-25,2023-03-06,UPI,N,SR10,W4,check address
+ORD1396,CUS_121,Hyderabad,Wholesale,Sports,15.0,555.7,0.11,2023-12-26,2023-09-16,Credit Card,Y,SR33,W4,urgent
+ORD1397,CUS_849,Mumbai,Retail,Electronics,18.0,429.52,0.09,2023-04-20,2023-11-29,Cash,N,SR16,W1,
+ORD1398,CUS_769,Mumbai,Retail,Grocery,15.0,162.41,0.1,2023-07-11,2023-05-02,Debit Card,N,SR35,W3,urgent
+ORD1399,CUS_137,Mumbai,Online,,19.0,717.77,0.07,2023-04-03,2023-10-26,Net Banking,N,SR3,W1,
+ORD1400,CUS_329,Hyderabad,Retail,Electronics,12.0,576.98,0.05,2023-12-16,2023-02-24,Credit Card,N,SR5,W3,
+ORD1401,CUS_464,Pune,Online,Grocery,13.0,1934.51,0.12,2023-02-25,2023-11-28,Debit Card,N,SR26,W3,urgent
+ORD1402,CUS_662,Kolkata,Retail,Furniture,11.0,1137.53,0.07,2023-03-01,2023-09-30,Net Banking,No,SR11,W4,urgent
+ORD1403,CUS_537,Kolkata,Retail,Electronics,5.0,727.19,0.07,2023-05-18,2023-08-30,UPI,N,SR7,W4,priority
+ORD1404,CUS_875,Pune,Online,Clothing,1.0,1181.91,0.16,2023-02-08,2023-09-01,Net Banking,,SR10,W3,
+ORD1405,CUS_382,Mumbai,Online,Electronics,3.0,321.43,0.24,2023-01-28,2023-01-19,Debit Card,N,SR34,W3,priority
+ORD1406,CUS_126,Chennai,Online,Electronics,19.0,915.89,0.15,2023-02-18,2023-07-07,Debit Card,N,SR3,W3,
+ORD1407,CUS_325,Delhi,Retail,Grocery,7.0,1271.16,0.02,2023-05-05,2023-12-13,UPI,N,SR8,W4,priority
+ORD1408,CUS_376,Hyderabad,Retail,Furniture,12.0,1003.35,0.02,2023-01-13,2023-05-25,Net Banking,N,SR31,W4,
+ORD1409,CUS_897,Delhi,Wholesale,Clothing,15.0,833.47,0.24,2023-02-05,2023-09-20,Net Banking,N,SR11,W2,check address
+ORD1410,CUS_708,Pune,Online,Sports,5.0,1988.0,0.07,2023-04-11,2023-12-31,UPI,N,SR7,W3,check address
+ORD1411,CUS_383,Chennai,Retail,Sports,15.0,1766.61,0.02,2023-10-09,2023-08-28,Net Banking,Y,SR2,W2,
+ORD1412,CUS_978,Hyderabad,Retail,Electronics,8.0,1265.64,0.15,2023-03-27,2023-11-01,UPI,Y,SR6,W3,check address
+ORD1413,CUS_580,Pune,Online,Grocery,10.0,1160.29,0.16,2023-01-04,2023-10-26,Credit Card,N,SR32,W4,priority
+ORD1414,CUS_552,Mumbai,Wholesale,Grocery,16.0,1260.29,0.16,2023-08-11,2023-03-18,Debit Card,N,SR20,W2,
+ORD1415,CUS_928,Kolkata,Online,Sports,8.0,442.56,0.07,2023-12-04,2023-07-08,Credit Card,N,SR34,W2,
+ORD1416,CUS_915,Delhi,,Clothing,1.0,820.52,0.0,2023-06-15,2023-11-30,Cash,N,SR16,W1,
+ORD1417,CUS_758,Bengaluru,Retail,Furniture,12.0,126.95,0.24,2023-12-10,2023-09-04,Cash,Yes,SR25,W3,
+ORD1418,CUS_615,Bengaluru,Wholesale,Clothing,5.0,977.31,0.06,2023-10-05,2023-05-11,Cash,No,SR12,W4,urgent
+ORD1419,CUS_646,Chennai,Retail,Furniture,3.0,1108.9,0.17,2023-05-10,2023-11-12,UPI,No,SR7,W1,urgent
+ORD1420,CUS_291,,Online,Sports,1.0,494.11,0.18,2023-01-31,2023-10-11,Net Banking,N,SR39,W1,
+ORD1421,CUS_148,Delhi,Online,Furniture,4.0,1929.86,0.15,2023-01-11,2023-03-21,Credit Card,Yes,SR17,W3,check address
+ORD1422,CUS_611,Mumbai,Online,Grocery,8.0,1823.44,0.08,2023-10-29,2023-03-14,Credit Card,No,SR11,W1,urgent
+ORD1423,CUS_116,Delhi,Wholesale,Electronics,3.0,1458.18,0.07,2023-04-06,2023-09-21,Credit Card,N,SR6,W3,
+ORD1424,CUS_271,Chennai,Retail,Electronics,10.0,1090.1,0.15,2023-07-09,2023-07-11,Credit Card,N,SR23,W1,priority
+ORD1425,CUS_319,Chennai,Online,Sports,2.0,1746.44,0.22,2023-07-11,2024-01-03,Cash,No,SR27,W3,urgent
+ORD1426,CUS_257,Bengaluru,Online,Grocery,11.0,304.77,0.24,2023-09-23,2024-01-11,Credit Card,N,SR6,W4,
+ORD1427,CUS_576,Mumbai,Retail,Clothing,10.0,1591.49,0.03,2023-05-08,2023-03-05,Net Banking,N,SR38,W3,check address
+ORD1428,CUS_145,Hyderabad,Online,Grocery,14.0,293.4,0.04,2023-08-26,2023-01-13,Cash,N,SR2,W3,priority
+ORD1429,CUS_472,,Retail,Electronics,7.0,1598.71,0.24,2023-12-21,2023-05-22,Credit Card,N,SR22,W2,urgent
+ORD1430,CUS_617,Mumbai,Retail,Electronics,2.0,587.75,0.18,2023-04-22,2023-09-12,UPI,No,SR20,W4,check address
+ORD1431,CUS_198,Bengaluru,Retail,Grocery,9.0,1760.33,0.22,2023-11-12,2023-02-13,Debit Card,N,SR25,W4,check address
+ORD1432,CUS_991,,Retail,Grocery,16.0,1890.88,0.05,2023-12-09,2023-01-18,Debit Card,N,SR15,W4,check address
+ORD1433,CUS_844,Kolkata,Retail,Electronics,13.0,340.15,0.15,2023-05-25,2023-03-05,Debit Card,N,SR29,W1,
+ORD1434,CUS_136,Kolkata,Wholesale,Clothing,9.0,952.22,0.18,2023-03-06,2023-09-11,Cash,N,SR8,W2,
+ORD1435,CUS_379,Kolkata,Online,Sports,4.0,1962.93,0.17,2023-09-04,2024-01-12,Credit Card,N,SR37,W4,check address
+ORD1436,CUS_448,Kolkata,Wholesale,Sports,10.0,992.64,0.1,2023-08-11,2023-10-20,Cash,N,SR33,W1,priority
+ORD1437,CUS_596,Pune,Online,Grocery,,1733.92,0.0,2023-11-09,2023-01-09,Net Banking,No,SR22,W1,urgent
+ORD1438,CUS_401,Delhi,Wholesale,Sports,17.0,1198.03,0.15,2023-04-16,2023-11-22,UPI,Y,SR5,W1,priority
+ORD1439,CUS_280,Pune,Retail,Electronics,14.0,781.89,0.06,2023-06-30,2023-04-01,UPI,N,SR39,W2,
+ORD1440,CUS_706,Pune,Online,,14.0,607.28,0.11,2023-07-03,2023-07-28,Debit Card,N,SR18,W1,
+ORD1441,CUS_198,Pune,Online,Grocery,2.0,446.29,0.24,2023-08-14,2023-10-20,Debit Card,N,SR38,W2,priority
+ORD1442,CUS_799,Kolkata,Wholesale,Grocery,11.0,1535.51,0.1,2023-09-22,2023-10-12,Debit Card,No,SR37,W3,
+ORD1443,CUS_215,Hyderabad,Wholesale,Grocery,16.0,803.75,0.21,2023-10-05,2023-04-29,Credit Card,Yes,SR30,W1,
+ORD1444,CUS_290,Chennai,Online,Clothing,19.0,1046.99,0.05,2023-03-30,2023-12-16,Net Banking,Yes,SR31,W4,
+ORD1445,CUS_352,Chennai,Wholesale,Sports,6.0,1010.03,0.17,2023-06-25,2023-06-25,Net Banking,N,SR10,W1,priority
+ORD1446,CUS_260,Delhi,Wholesale,Grocery,19.0,1175.69,0.24,2023-01-18,2023-03-18,Net Banking,N,SR15,W3,
+ORD1447,CUS_355,Kolkata,Wholesale,Furniture,5.0,1737.88,0.03,2023-04-16,2023-04-12,Net Banking,N,SR18,W3,
+ORD1448,CUS_422,Kolkata,Retail,Furniture,4.0,1962.44,0.0,2023-09-28,2023-06-01,Debit Card,N,SR23,W1,
+ORD1449,CUS_227,Kolkata,Retail,Electronics,15.0,844.79,0.11,2023-11-15,2023-09-28,UPI,Yes,SR33,W3,
+ORD1450,CUS_117,Bengaluru,Wholesale,Sports,4.0,1663.66,0.02,2023-06-16,2023-03-13,Debit Card,No,SR16,W2,urgent
+ORD1451,CUS_892,Mumbai,Wholesale,Grocery,10.0,1540.83,0.19,2023-01-13,2023-06-30,Net Banking,Yes,SR38,W2,
+ORD1452,CUS_834,Bengaluru,Retail,Furniture,3.0,1168.38,0.23,2023-12-03,2023-05-05,Debit Card,No,SR35,W1,
+ORD1453,CUS_665,Mumbai,Retail,Sports,5.0,1914.29,0.11,2023-02-01,2023-10-21,Net Banking,Yes,SR34,W2,urgent
+ORD1454,CUS_669,Kolkata,Online,Electronics,6.0,440.93,0.06,2023-02-09,2023-10-13,Cash,N,SR28,W2,check address
+ORD1455,CUS_422,,Online,Clothing,8.0,263.07,0.11,2023-05-28,2023-07-15,UPI,N,SR2,W4,
+ORD1456,CUS_971,Bengaluru,Retail,Sports,,1715.23,0.18,2023-08-06,2023-08-17,Cash,N,SR30,W1,
+ORD1457,CUS_785,Bengaluru,Wholesale,Sports,10.0,906.34,0.0,2023-08-07,2023-10-03,Credit Card,N,SR13,W3,
+ORD1458,CUS_891,Mumbai,Wholesale,Clothing,6.0,1701.59,0.15,2023-03-23,2023-04-17,Debit Card,Y,SR16,W1,priority
+ORD1459,CUS_725,Chennai,Wholesale,Sports,14.0,1791.53,0.15,2023-11-29,2023-01-22,Credit Card,N,SR5,W2,
+ORD1460,CUS_387,Mumbai,Wholesale,Electronics,4.0,171.79,0.16,2023-07-27,2023-03-06,Debit Card,No,SR28,W4,urgent
+ORD1461,CUS_953,Bengaluru,Online,Electronics,13.0,1772.76,0.06,2023-07-20,2023-06-15,Cash,N,SR39,W1,
+ORD1462,CUS_762,Hyderabad,Retail,Clothing,17.0,924.22,0.18,2023-11-28,2023-01-28,Net Banking,Yes,SR20,W1,
+ORD1463,CUS_738,Bengaluru,Wholesale,Grocery,7.0,1045.34,0.02,2023-02-07,2023-11-08,Net Banking,No,SR24,W2,
+ORD1464,CUS_254,Hyderabad,Online,Furniture,4.0,1271.86,0.05,2023-07-30,2023-10-13,Debit Card,N,SR27,W2,check address
+ORD1465,CUS_589,Delhi,Wholesale,Grocery,14.0,1856.45,0.22,2023-11-23,2023-05-29,Net Banking,Y,SR30,W1,check address
+ORD1466,CUS_485,Bengaluru,Retail,Sports,3.0,87.28,0.18,2023-09-06,2023-10-09,Cash,N,SR27,W2,priority
+ORD1467,CUS_884,Delhi,Online,Furniture,5.0,979.84,0.0,2023-08-15,2023-11-23,Net Banking,Yes,SR26,W2,urgent
+ORD1468,CUS_203,Chennai,Retail,Clothing,16.0,1391.06,0.06,2023-02-17,2023-11-16,Cash,Yes,SR7,W2,
+ORD1469,CUS_492,Mumbai,Retail,Clothing,4.0,1459.28,0.05,2023-01-18,2023-06-14,Credit Card,No,SR38,W2,
+ORD1470,CUS_910,Hyderabad,Online,,2.0,1400.44,0.07,2023-10-22,2023-08-13,Cash,N,SR5,W2,
+ORD1471,CUS_345,Mumbai,Online,Electronics,18.0,312.15,0.06,2023-07-15,2023-09-30,UPI,N,SR23,W4,
+ORD1472,CUS_275,Delhi,Online,Furniture,19.0,633.82,0.02,2023-07-06,2023-05-27,UPI,N,SR28,W2,check address
+ORD1473,CUS_138,Hyderabad,Online,Sports,19.0,749.5,0.11,2023-12-11,2023-12-23,UPI,Yes,SR34,W3,priority
+ORD1474,CUS_576,Mumbai,Online,Electronics,17.0,1618.65,0.18,2023-08-12,2023-01-31,Debit Card,N,SR15,W1,
+ORD1475,CUS_781,Bengaluru,Online,Clothing,14.0,593.58,0.15,2023-11-14,2023-02-15,Debit Card,N,SR32,W4,urgent
+ORD1476,CUS_858,Kolkata,Online,Furniture,19.0,460.87,0.17,2023-12-31,2023-10-03,Debit Card,N,SR26,W4,
+ORD1477,CUS_637,Delhi,Wholesale,Grocery,13.0,1917.02,0.02,2023-12-03,2023-02-04,Cash,Y,SR31,W2,priority
+ORD1478,CUS_966,Mumbai,Retail,Grocery,12.0,67.28,0.24,2023-08-17,2023-05-22,Debit Card,N,SR19,W1,
+ORD1479,CUS_917,Delhi,Online,Sports,6.0,1995.75,0.21,2023-03-18,2023-11-15,Credit Card,N,SR9,W3,priority
+ORD1480,CUS_507,Pune,Wholesale,Grocery,4.0,1369.8,0.2,2023-07-07,2024-01-10,UPI,N,SR29,W2,check address
+ORD1481,CUS_624,Delhi,Wholesale,Furniture,19.0,1665.52,0.21,2023-12-12,2023-08-10,Cash,N,SR39,W1,
+ORD1482,CUS_927,Hyderabad,,Furniture,16.0,624.51,0.23,2023-09-27,2023-12-23,UPI,Yes,SR4,W2,priority
+ORD1483,CUS_605,Pune,Retail,Grocery,13.0,77.91,0.14,2023-04-05,2023-01-23,Debit Card,No,SR3,W2,check address
+ORD1484,CUS_924,Hyderabad,Online,Furniture,4.0,1488.85,0.05,2023-11-06,2023-06-30,Cash,N,SR29,W2,priority
+ORD1485,CUS_135,Kolkata,Wholesale,Sports,17.0,??,0.15,2023-05-12,2024-01-03,Net Banking,Yes,SR11,W2,priority
+ORD1486,CUS_784,Pune,Retail,Electronics,1.0,1493.93,0.19,2023-02-08,2023-11-26,Credit Card,N,SR33,W2,
+ORD1487,CUS_119,Bengaluru,Retail,Sports,18.0,328.56,0.18,2023-03-13,2023-08-20,Debit Card,N,SR38,W2,check address
+ORD1488,CUS_420,Delhi,Retail,Sports,17.0,??,0.13,2023-10-08,2023-02-08,Debit Card,No,SR11,W2,
+ORD1489,CUS_875,Mumbai,Wholesale,Furniture,15.0,1549.4,0.02,2023-11-29,2023-03-12,Credit Card,Yes,SR27,W3,urgent
+ORD1490,CUS_611,Chennai,Online,Electronics,11.0,1334.15,0.09,2023-06-09,2023-04-27,Credit Card,No,SR33,W4,
+ORD1491,CUS_499,Delhi,Wholesale,Furniture,13.0,1543.93,0.23,2023-07-06,2023-08-28,Net Banking,N,SR21,W3,check address
+ORD1492,CUS_753,Delhi,Wholesale,Clothing,1.0,1699.55,0.15,2023-07-10,2023-12-02,Debit Card,Y,SR39,W2,priority
+ORD1493,CUS_982,Kolkata,Online,Furniture,17.0,1246.53,0.13,2023-04-30,2023-05-29,Debit Card,No,SR31,W2,check address
+ORD1494,CUS_570,Bengaluru,Online,Furniture,6.0,222.78,0.07,2023-08-08,2023-01-10,UPI,N,SR38,W3,urgent
+ORD1495,CUS_242,Chennai,Online,Furniture,4.0,1000.87,0.09,2023-02-22,2023-10-16,Cash,N,SR2,W3,urgent
+ORD1496,CUS_191,Pune,Retail,Electronics,16.0,201.42,0.22,2023-08-10,2023-02-20,Cash,Yes,SR27,W4,
+ORD1497,CUS_453,Pune,Online,Furniture,15.0,844.71,0.17,2023-05-11,2023-12-05,UPI,No,SR36,W3,
+ORD1498,CUS_933,Pune,Wholesale,Electronics,15.0,843.86,0.2,2023-08-25,2023-01-06,Cash,No,SR11,W4,urgent
+ORD1499,CUS_899,Hyderabad,Online,,6.0,178.72,0.11,2023-09-03,2023-12-10,Credit Card,N,SR18,W2,
+ORD1500,CUS_826,Hyderabad,Wholesale,Clothing,15.0,730.2,0.16,2023-08-14,2023-05-07,Cash,No,SR1,W1,
+ORD1501,CUS_953,Mumbai,Retail,Electronics,14.0,266.45,0.06,2023-07-27,2023-03-17,Cash,Y,SR35,W1,priority
+ORD1502,CUS_150,Chennai,Wholesale,Grocery,11.0,1626.06,0.18,2023-04-06,2023-06-15,UPI,Y,SR35,W1,
+ORD1503,CUS_764,Pune,Wholesale,Electronics,7.0,1897.99,0.11,2023-07-19,2023-10-06,Net Banking,N,SR31,W1,priority
+ORD1504,CUS_797,Hyderabad,Online,Electronics,9.0,191.02,0.11,2023-09-04,2023-11-21,Cash,Y,SR28,W2,
+ORD1505,CUS_674,Mumbai,Online,Clothing,16.0,1912.47,0.16,2023-03-13,2023-10-28,Cash,N,SR39,W1,urgent
+ORD1506,CUS_289,Bengaluru,Wholesale,Sports,5.0,1069.02,0.23,2023-11-14,2023-10-18,Net Banking,N,SR1,W3,
+ORD1507,CUS_224,Mumbai,Online,Sports,10.0,634.15,0.02,2023-07-04,2023-03-19,UPI,N,SR25,W3,
+ORD1508,CUS_249,Hyderabad,Retail,Electronics,18.0,199.88,0.21,2023-01-06,2023-10-26,Net Banking,N,SR38,W1,urgent
+ORD1509,CUS_413,Kolkata,Retail,Furniture,3.0,1026.22,0.07,2023-07-25,2023-05-18,UPI,N,SR20,W3,priority
+ORD1510,CUS_669,Kolkata,Online,Grocery,13.0,1599.31,0.11,2023-02-01,2023-04-17,Credit Card,N,SR3,W4,priority
+ORD1511,CUS_441,Pune,Retail,Furniture,11.0,1428.82,0.01,2023-04-09,2023-04-06,UPI,N,SR2,W2,check address
+ORD1512,CUS_404,Kolkata,Online,Furniture,17.0,147.94,0.08,2023-09-13,2023-05-16,Credit Card,Yes,SR18,W1,
+ORD1513,CUS_791,Pune,Wholesale,Electronics,13.0,192.16,0.13,2023-07-06,2023-03-10,Credit Card,Yes,SR10,W1,priority
+ORD1514,CUS_781,Pune,Wholesale,Electronics,6.0,835.6,0.01,2023-03-17,2023-05-28,UPI,N,SR5,W2,urgent
+ORD1515,CUS_937,Hyderabad,Retail,Electronics,17.0,625.82,0.12,2023-06-26,2023-06-09,Debit Card,No,SR9,W3,priority
+ORD1516,CUS_882,Kolkata,Online,Electronics,13.0,503.15,0.23,2023-11-11,2023-06-13,UPI,N,SR2,W2,
+ORD1517,CUS_153,Pune,Online,Sports,19.0,597.96,0.03,2023-10-14,2023-12-08,Cash,N,SR34,W2,
+ORD1518,CUS_543,,Retail,,19.0,1616.79,0.19,2023-12-15,2023-07-09,Cash,No,SR38,W3,check address
+ORD1519,CUS_712,Bengaluru,Wholesale,Sports,10.0,1861.99,0.1,2023-09-12,2023-12-06,Debit Card,N,SR31,W2,
+ORD1520,CUS_363,Mumbai,Retail,Sports,3.0,839.95,0.16,2023-11-21,2023-04-06,Credit Card,,SR10,W3,
+ORD1521,CUS_152,Mumbai,Wholesale,Electronics,14.0,1816.92,0.07,2023-07-09,2023-07-01,Debit Card,N,SR12,W3,
+ORD1522,CUS_671,Hyderabad,Online,Clothing,19.0,676.92,0.04,2023-11-04,2023-10-16,Cash,Yes,SR36,W2,
+ORD1523,CUS_719,Kolkata,Wholesale,Grocery,5.0,??,0.04,2023-12-11,2023-11-19,Debit Card,N,SR21,W4,
+ORD1524,CUS_104,Kolkata,Retail,Furniture,5.0,490.76,0.02,2023-05-07,2023-07-07,UPI,N,SR6,W3,urgent
+ORD1525,CUS_202,Pune,Online,Sports,17.0,1298.93,0.05,2023-10-14,2024-01-08,Debit Card,N,SR3,W2,check address
+ORD1526,CUS_295,Delhi,Retail,Grocery,10.0,1959.01,0.17,2023-09-11,2023-05-19,Credit Card,Yes,SR10,W3,
+ORD1527,CUS_873,Pune,Retail,Clothing,5.0,1226.81,0.22,2023-08-01,2023-05-11,UPI,N,SR5,W4,
+ORD1528,CUS_976,Bengaluru,Wholesale,Furniture,4.0,747.74,0.2,2023-09-07,2023-07-14,Net Banking,No,SR26,W4,priority
+ORD1529,CUS_983,Chennai,Retail,Furniture,6.0,1313.24,0.17,2023-03-25,2023-11-13,Cash,N,SR21,W1,check address
+ORD1530,CUS_449,Mumbai,Wholesale,Sports,4.0,289.7,0.03,2023-01-13,2023-10-01,Cash,N,SR26,W3,
+ORD1531,CUS_146,Pune,Online,Electronics,7.0,1782.89,0.07,2023-02-14,2023-12-19,Debit Card,N,SR38,W3,check address
+ORD1532,CUS_966,Delhi,Wholesale,Clothing,7.0,1031.01,0.08,2023-05-07,2023-05-25,UPI,N,SR26,W2,check address
+ORD1533,CUS_922,Delhi,Online,Sports,18.0,926.23,0.06,2023-04-24,2023-01-17,Net Banking,No,SR8,W3,check address
+ORD1534,CUS_919,,Wholesale,Clothing,3.0,1192.44,0.13,2023-10-03,2023-10-30,UPI,N,SR5,W1,
+ORD1535,CUS_755,Hyderabad,,Electronics,1.0,1268.33,0.13,2023-07-24,2023-09-03,Cash,N,SR15,W4,
+ORD1536,CUS_368,Mumbai,Wholesale,Electronics,4.0,189.96,0.09,2023-12-03,2023-04-18,UPI,N,SR16,W4,urgent
+ORD1537,CUS_469,Hyderabad,Wholesale,Sports,6.0,1381.1,0.09,2023-09-30,2023-03-30,Net Banking,N,SR1,W1,
+ORD1538,CUS_735,Chennai,Online,Electronics,9.0,521.77,0.21,2023-02-27,2023-05-10,Debit Card,No,SR16,W3,priority
+ORD1539,CUS_205,Delhi,Retail,Grocery,14.0,1442.21,0.2,2023-11-24,2024-01-11,Credit Card,N,SR37,W3,check address
+ORD1540,CUS_769,Delhi,Wholesale,Furniture,12.0,1653.94,0.08,2023-08-07,2023-12-08,UPI,N,SR3,W1,
+ORD1541,CUS_758,Bengaluru,Retail,Sports,4.0,1617.72,0.23,2023-04-19,2023-01-05,Credit Card,,SR31,W2,
+ORD1542,CUS_756,Chennai,Wholesale,Clothing,12.0,1127.38,0.24,2023-10-06,2023-11-24,Cash,No,SR13,W4,urgent
+ORD1543,CUS_219,,Wholesale,Grocery,10.0,1064.33,0.08,2023-06-23,2024-01-03,Debit Card,N,SR16,W1,priority
+ORD1544,CUS_930,Chennai,Retail,Sports,7.0,328.61,0.09,2023-11-24,2023-11-03,Debit Card,N,SR21,W1,check address
+ORD1545,CUS_886,Mumbai,Wholesale,Electronics,3.0,1561.92,0.13,2023-09-21,2023-04-06,UPI,N,SR2,W3,priority
+ORD1546,CUS_703,Kolkata,Retail,Electronics,14.0,579.25,0.24,2023-11-11,2023-07-29,Debit Card,N,SR27,W4,urgent
+ORD1547,CUS_157,Delhi,Wholesale,Electronics,10.0,1018.56,0.22,2023-04-21,2023-08-14,UPI,No,SR38,W3,
+ORD1548,CUS_445,Bengaluru,Online,Electronics,16.0,604.33,0.03,2023-07-06,2023-12-15,UPI,N,SR26,W1,
+ORD1549,CUS_840,Mumbai,Retail,Clothing,16.0,310.97,0.1,2023-09-26,2023-11-18,Credit Card,N,SR38,W2,check address
+ORD1550,CUS_573,Pune,Wholesale,Grocery,10.0,1277.64,0.14,2023-08-17,2023-02-17,Debit Card,N,SR25,W4,
+ORD1551,CUS_216,Chennai,Wholesale,Furniture,13.0,155.95,0.13,2023-06-05,2023-07-01,UPI,N,SR11,W1,urgent
+ORD1552,CUS_929,Pune,Online,Clothing,6.0,1509.86,0.05,2023-07-08,2023-04-17,Credit Card,N,SR8,W1,priority
+ORD1553,CUS_890,Hyderabad,Retail,Clothing,,??,0.21,2023-09-29,2023-07-19,Net Banking,Y,SR8,W2,
+ORD1554,CUS_226,Mumbai,Wholesale,Furniture,9.0,50.26,0.17,2023-01-02,2023-04-17,Credit Card,N,SR33,W1,check address
+ORD1555,CUS_492,Pune,Online,Furniture,13.0,1046.7,0.21,2023-09-03,2023-10-08,Credit Card,N,SR7,W1,
+ORD1556,CUS_740,Delhi,Wholesale,Electronics,4.0,141.36,0.21,2023-07-29,2023-09-18,UPI,N,SR38,W4,
+ORD1557,CUS_157,Chennai,Retail,Clothing,11.0,588.53,0.19,2023-10-13,2023-04-19,Cash,N,SR21,W4,
+ORD1558,CUS_733,Kolkata,Wholesale,Sports,18.0,1428.6,0.11,2023-12-25,2023-01-20,Cash,N,SR8,W4,priority
+ORD1559,CUS_612,Mumbai,Wholesale,Furniture,11.0,172.24,0.15,2023-01-13,2023-10-24,Cash,Y,SR21,W3,urgent
+ORD1560,CUS_850,Delhi,Wholesale,Furniture,4.0,1686.71,0.04,2023-04-06,2023-11-03,Credit Card,N,SR20,W2,priority
+ORD1561,CUS_901,,Wholesale,Grocery,18.0,57.45,0.17,2023-08-09,2023-06-21,UPI,N,SR8,W4,priority
+ORD1562,CUS_195,Hyderabad,Online,Sports,1.0,531.31,0.04,2023-08-26,2023-11-28,Debit Card,N,SR31,W3,priority
+ORD1563,CUS_737,Chennai,Online,Sports,7.0,1494.76,0.17,2023-04-04,2023-07-15,Credit Card,N,SR29,W3,
+ORD1564,CUS_217,Mumbai,Retail,Furniture,6.0,666.73,0.06,2023-12-04,2023-01-13,Credit Card,Yes,SR9,W2,
+ORD1565,CUS_659,Mumbai,Online,Electronics,15.0,248.69,0.03,2023-09-26,2023-07-15,UPI,No,SR15,W2,urgent
+ORD1566,CUS_700,Kolkata,Online,Grocery,18.0,752.46,0.04,2023-06-20,2023-10-11,Net Banking,Yes,SR30,W1,priority
+ORD1567,CUS_587,Kolkata,Retail,Sports,11.0,577.27,0.0,2023-04-04,2024-01-05,Credit Card,N,SR26,W3,
+ORD1568,CUS_336,Bengaluru,Online,Furniture,15.0,1693.29,0.18,2023-05-29,2023-07-02,Net Banking,No,SR10,W4,urgent
+ORD1569,CUS_984,Hyderabad,Online,Sports,16.0,661.03,0.18,2023-04-22,2023-11-02,Net Banking,N,SR29,W2,urgent
+ORD1570,CUS_996,Bengaluru,Retail,Grocery,7.0,1588.42,0.13,2023-02-24,2023-05-25,Cash,Y,SR16,W3,priority
+ORD1571,CUS_371,Delhi,Retail,Grocery,10.0,1789.15,0.04,2023-12-03,2023-11-13,UPI,N,SR36,W4,check address
+ORD1572,CUS_288,Delhi,Retail,Clothing,12.0,895.94,0.02,2023-04-26,2023-07-02,Net Banking,No,SR20,W3,priority
+ORD1573,CUS_803,Bengaluru,Wholesale,Furniture,14.0,1824.39,0.0,2023-05-23,2023-01-31,UPI,N,SR37,W2,check address
+ORD1574,CUS_546,Hyderabad,Wholesale,Grocery,5.0,785.77,0.04,2023-07-20,2023-03-26,Cash,Y,SR22,W1,urgent
+ORD1575,CUS_680,Bengaluru,Retail,Clothing,18.0,1929.95,0.22,2023-06-29,2023-06-16,UPI,Yes,SR7,W3,
+ORD1576,CUS_889,Hyderabad,Retail,Clothing,5.0,224.11,0.06,2023-07-21,2023-10-12,Credit Card,No,SR23,W4,
+ORD1577,CUS_960,Hyderabad,Retail,Sports,3.0,1389.69,0.09,2023-12-30,2023-10-09,Net Banking,N,SR29,W2,urgent
+ORD1578,CUS_346,Pune,Wholesale,Sports,5.0,1012.94,0.03,2023-02-22,2023-04-07,UPI,N,SR16,W1,
+ORD1579,CUS_175,Chennai,Wholesale,Clothing,17.0,805.92,0.06,2023-06-29,2023-09-24,Debit Card,N,SR38,W4,urgent
+ORD1580,CUS_253,Hyderabad,Online,,19.0,1283.79,0.13,2023-11-09,2023-10-26,UPI,Yes,SR28,W4,priority
+ORD1581,CUS_755,Kolkata,Online,Grocery,19.0,1422.52,0.15,2023-11-04,2023-10-24,Net Banking,N,SR38,W4,check address
+ORD1582,CUS_534,Hyderabad,Retail,Electronics,12.0,58.51,0.06,2023-05-17,2023-08-14,Cash,N,SR31,W3,urgent
+ORD1583,CUS_185,Hyderabad,Wholesale,,9.0,375.56,0.01,2023-07-01,2023-11-30,Cash,No,SR14,W2,
+ORD1584,CUS_796,Hyderabad,Wholesale,Clothing,1.0,1440.44,0.1,2023-01-01,2023-12-28,Net Banking,N,SR33,W4,priority
+ORD1585,CUS_384,Pune,Wholesale,Clothing,18.0,1349.45,0.06,2023-02-13,2024-01-10,Credit Card,N,SR9,W3,
+ORD1586,CUS_319,Pune,Retail,Grocery,4.0,1933.79,0.05,2023-08-15,2023-02-12,Credit Card,N,SR27,W2,priority
+ORD1587,CUS_168,Delhi,Online,Sports,10.0,1534.02,0.24,2023-11-27,2023-10-31,Cash,N,SR24,W2,check address
+ORD1588,CUS_146,Pune,Retail,Sports,7.0,1904.01,0.15,2023-04-08,2023-09-04,Cash,N,SR13,W3,priority
+ORD1589,CUS_193,Kolkata,Online,Clothing,1.0,1419.95,0.14,2023-07-27,2023-07-28,Net Banking,N,SR26,W3,
+ORD1590,CUS_849,Kolkata,Online,Furniture,17.0,631.2,0.1,2023-09-22,2023-08-26,Credit Card,N,SR29,W4,
+ORD1591,CUS_552,Pune,Retail,Sports,2.0,255.46,0.11,2023-10-15,2023-01-23,Cash,N,SR28,W2,urgent
+ORD1592,CUS_303,Bengaluru,Online,Grocery,11.0,1574.56,0.14,2023-09-28,2023-07-05,Credit Card,N,SR28,W1,check address
+ORD1593,CUS_317,Chennai,Online,Sports,9.0,1306.09,0.17,2023-05-20,2023-08-31,Cash,No,SR8,W3,
+ORD1594,CUS_573,,Wholesale,,7.0,??,0.18,2023-08-25,2023-12-30,UPI,,SR23,W2,check address
+ORD1595,CUS_531,Hyderabad,Online,Clothing,17.0,752.1,0.04,2023-03-13,2023-10-11,Debit Card,N,SR29,W2,priority
+ORD1596,CUS_440,Mumbai,Retail,Sports,17.0,1915.76,0.13,2023-06-04,2023-02-11,UPI,N,SR5,W4,check address
+ORD1597,CUS_650,Chennai,Retail,Grocery,2.0,1025.78,0.1,2023-07-09,2023-12-03,Cash,N,SR7,W1,
+ORD1598,CUS_711,Chennai,Online,Clothing,6.0,893.82,0.22,2023-09-25,2023-06-12,Debit Card,No,SR36,W4,urgent
+ORD1599,CUS_388,Kolkata,Wholesale,Furniture,14.0,942.51,0.16,2023-11-17,2023-06-10,Debit Card,N,SR27,W1,urgent
